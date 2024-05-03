@@ -18,6 +18,6 @@ El símbolo #.
     *Links automáticos: rodealos con los símbolos < >. <http://www.limni.net>
 
 6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
-   1. *
-   2. -
-   3. +
+   1. (*)
+   2. (-)
+   3. (+)
