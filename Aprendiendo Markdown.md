@@ -8,7 +8,7 @@
   
   5. ¿Qué símbolo creará un encabezado en Markdown?
   
-  El símbolo #.
+      El símbolo #.
        
       1. ¿Cuántos necesitas para crear el título más grande?
          
@@ -17,15 +17,19 @@
       2. ¿Cuántos necesitas para crear el título más pequeño?
           
           Se necesita 6.
-6. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
-   El símbolo asterisco *.
-7. ¿Cómo se crea un vínculo con Markdown?
-    Se crea de varias maneras:
+  
+  6. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
+
+     El símbolo asterisco *.
+  
+  8. ¿Cómo se crea un vínculo con Markdown?
+
+     Se crea de varias maneras:
     * Links o enlaces en línea: con corchetes y parentesis. [enlace en línea](http://www.limni.net)
     * Links como referencia: En tu texto enlazarás palabras o códigos concretos (formados por letras y/o números). [nombre que quieres darle a tu enlace][nombre de tu referencia]
     * Links automáticos: rodealos con los símbolos < >. <http://www.limni.net>
 
-8. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
+10. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
    1. (*)
    2. (-)
    3. (+)
