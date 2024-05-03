@@ -29,7 +29,8 @@
     * Links como referencia: En tu texto enlazarás palabras o códigos concretos (formados por letras y/o números). [nombre que quieres darle a tu enlace][nombre de tu referencia]
     * Links automáticos: rodealos con los símbolos < >. <http://www.limni.net>
 
-10. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
-   1. (*)
-   2. (-)
-   3. (+)
+  
+  10. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?
+     1. (*)
+     2. (-)
+     3. (+)
