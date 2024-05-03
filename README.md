@@ -11,5 +11,7 @@
   + Sin dolor no hay ganancia
   
   - Siempre estes dispuesto a aprender.
+
+    ![Growth Mindset](https://cdn.shopify.com/s/files/1/0609/2639/4596/files/Mentalidad-de-Crecimiento-en-tu-Empresa.jpg?v=1653928788)
   
   [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
