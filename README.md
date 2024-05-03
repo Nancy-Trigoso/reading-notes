@@ -1,4 +1,4 @@
-[Reading-notes](https://github.com/reading-notes)
+[Reading-notes](https://github.com/Nancy-Trigoso/reading-notes)
   
 >Hola soy Nancy Trigoso Vega, tengo 25 años y esto es mis notas de lectura.
 # **Growth Mindset**
