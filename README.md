@@ -10,4 +10,5 @@
   + Sin dolor no hay ganancia
   
   - Siempre estes dispuesto a aprender.
-[Growth Mindset] [https://www.atlassian.com/blog/inside-atlassian/growth-mindset]
+  
+  [Growth Mindset][https://www.atlassian.com/blog/inside-atlassian/growth-mindset]
