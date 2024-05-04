@@ -35,7 +35,8 @@
 **3.¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).**
   
   ***1.cd projects***  
-  Te dirige al directorio projects.
+    
+    Te dirige al directorio projects.
 
   ***2.mkdir new-project***
     
