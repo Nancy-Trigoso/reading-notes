@@ -20,4 +20,4 @@
     
 **6. ¿Cuál es el comando para enviar los archivos modificados a Github?**
   
-   *
++
