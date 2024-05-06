@@ -13,6 +13,8 @@
    * Seguimiento de un solo archivo: **git add filename**
     
    * Seguimiento de todos los archivos: __git agregar *__
+     
+   * Comando para preparar los archivos: **git status**
     
 **5. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
     
