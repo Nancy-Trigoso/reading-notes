@@ -10,14 +10,14 @@
     
 **3. ¿Cuál es el comando para rastrear y preparar archivos?**
     
-    * git add filename
+   * git add filename
     
-    * git agregar *
+   * git agregar *
     
 **5. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
     
-    * 
+   * git checkout
     
 **6. ¿Cuál es el comando para enviar los archivos modificados a Github?**
   
-    *
+   *
