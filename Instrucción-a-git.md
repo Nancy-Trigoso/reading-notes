@@ -16,7 +16,7 @@
     
 **5. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
     
-    * git checkout
+    * 
     
 **6. ¿Cuál es el comando para enviar los archivos modificados a Github?**
   
