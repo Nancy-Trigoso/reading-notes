@@ -4,3 +4,6 @@ Tengo 25 años, estoy estudiando en Enter Tech School estoy en el code 102 y est
 
 ## Descripción:  
 
+En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 102.  
+
+
