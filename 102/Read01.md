@@ -1,17 +1,43 @@
-Hola soy Nancy Trigoso Vega, tengo 25 años y esto es mis notas de lectura.
+# Markdown
+**1. ¿Qué es Markdown?**
 
-# **Growth Mindset**
-Tener una mentalidad de crecimiento nos ayuda a ver los desafios como algo positivo, que si tenemos una meta sigamos hasta cumplir nuestro objetivo, aunque en el camino se presenten obstáculos debemos ser perseverantes, esforzarnos en cada paso que damos y no rendirnos, siempre pensando en positivo y con muchas ganas de aprender.
+   Es un metodo de escritura que esta basado en un texto plano que nos permite crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
+  
+  **2. ¿Por qué utilizamos Markdown?**
 
-## ***3 recordatorios sobre cómo mantenerte con una Growth Mindset***
+   Porque es compatible con todas las plataformas,  es una manera de mantener todo tu contenido siempre accesible desde cualquier dispositivo, ya que en cualquiera de ellas           siempre encontrarás las aplicaciones adecuadas para leer y editar este tipo de contenido.
   
-  * Persistir
+**3. ¿Qué símbolo creará un encabezado en Markdown?**
   
-  + Sin dolor no hay ganancia
-  
-  - Siempre estes dispuesto a aprender.
+ El símbolo #.
+       
+ + **¿Cuántos necesitas para crear el título más grande?**
 
-    ![Growth Mindset](https://cdn.shopify.com/s/files/1/0609/2639/4596/files/Mentalidad-de-Crecimiento-en-tu-Empresa.jpg?v=1653928788)
+      Se necesita solo uno #.
+       
+  + **¿Cuántos necesitas para crear el título más pequeño?**
+          
+       Se necesita 6.
   
-  [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+  **4. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
+  
+  El símbolo asterisco *.
+   
+  **5. ¿Cómo se crea un vínculo con Markdown?**
+  
+  Se crea de varias maneras:
+  
+  * Links o enlaces en línea: con corchetes y parentesis. [enlace en línea](http://www.limni.net)
+  
+  * Links como referencia: En tu texto enlazarás palabras o códigos concretos (formados por letras y/o números). [nombre que quieres darle a tu enlace][nombre de tu referencia]
+  
+  * Links automáticos: rodealos con los símbolos < >. <http://www.limni.net>
 
+  
+  **6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?** 
+  
+  1.*
+  
+  2.-
+  
+  3.+ 
