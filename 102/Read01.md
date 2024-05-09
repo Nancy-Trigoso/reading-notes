@@ -36,8 +36,8 @@
   
   **6. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?** 
   
-  1.*
+  1. __*__
   
-  2.-
+  2. __-__
   
-  3.+ 
+  3. __+ __
