@@ -16,6 +16,6 @@
                   
 **3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "< p >."**  
 
-      p.ex {
-        color: rgb(0,0,255);
+      body {
+        color: red;
       }
