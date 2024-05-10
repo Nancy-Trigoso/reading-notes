@@ -5,13 +5,13 @@
       
 **2. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?**  
 
-*CSS externo:
+* CSS externo:
                   Puedes cambiar el aspecto de un sitio web completo cambiando solo un archivo. Cada página HTML debe incluir una                       referencia al archivo de hoja de estilo externo dentro del elemento <link>, dentro de la sección head.  
                   
-*CSS interno:
+* CSS interno:
                   Se puede utilizar una hoja de estilo interna si una sola página HTML tiene un estilo único. El estilo interno se                      define dentro del elemento style  dentro de la sección principal.  
                   
-*CSS en línea:
+* CSS en línea:
                   Se puede utilizar un estilo en línea para aplicar un estilo único a un solo elemento. Para usar estilos en línea,                     agregue el atributo de estilo al elemento relevante. El atributo de estilo puede contener cualquier propiedad CSS.    
                   
 **3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "< p >."**  
