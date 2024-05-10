@@ -5,7 +5,7 @@
       
 **2. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?**  
 
-    * CSS externo:
+*CSS externo:
                   Puedes cambiar el aspecto de un sitio web completo cambiando solo un archivo. Cada página HTML debe incluir una                       referencia al archivo de hoja de estilo externo dentro del elemento <link>, dentro de la sección head.  
                   
     *__CSS interno:__
