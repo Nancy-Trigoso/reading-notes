@@ -1,7 +1,8 @@
 # Diseño de paginas web con CSS
 **1. ¿Cuál es el propósito de CSS?**    
 
-      Ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma                 atractiva. Se puede usar para estilos de texto muy básicos como, por ejemplo, cambiar el color y el tamaño de los                  encabezados y los enlaces.  
+      Ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma                 atractiva. 
+      Se puede usar para estilos de texto muy básicos como, por ejemplo, cambiar el color y el tamaño de los                             encabezados y los enlaces.  
       
 **2. ¿Cuáles son las tres formas de insertar CSS en tu proyecto?**  
 
