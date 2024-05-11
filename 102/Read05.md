@@ -29,7 +29,8 @@
       <h1>This is heading 1</h1                  <p>Este es un oarrafsro de color           rojo.</p>
       </body>
       </html>  
-* Utilizamos <style> para darle color     rojo, al párrafo.
+      
+      * Utilizamos <style> para darle   color rojo, al párrafo.
       <style>
       P {
       color: red;
