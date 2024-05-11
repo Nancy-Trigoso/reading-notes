@@ -14,7 +14,7 @@
 * CSS en línea:
                   Se puede utilizar un estilo en línea para aplicar un estilo único a un solo elemento. Para usar estilos en línea,                     agregue el atributo de estilo al elemento relevante. El atributo de estilo puede contener cualquier propiedad CSS.    
                   
-**3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "< p >."**    
+**3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "< p >."**  
 
 <!DOCTYPE html>
 <html>
@@ -23,23 +23,15 @@
 body {
   color: red;
 }
-
-h1 {
-  color: #00ff00;
-}
-
-p.ex {
-  color: rgb(0,0,255);
-}
 </style>
 </head>
 <body>
-<h1>This is heading 1</h1
-                           
-<p>This is an ordinary paragraph. Notice that this text is red. The default text-color for a page is defined in the body selector.</p>
-
-<p class="ex">This is a paragraph with class="ex". This text is blue.</p>
-
+<h1>This is heading 1</h1                   <p>This is an ordinary paragraph. Notice that this text is red. The default text-color for a page is defined in the body selector.</p>
 </body>
-</html>
-
+</html>  
+* Utilizamos <style>para darle color rojo, al párrafo.
+<style>
+P {
+  color: red;
+}
+</style>
