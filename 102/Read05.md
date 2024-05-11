@@ -30,7 +30,7 @@
       <p>Este es un párrafo de color rojo</p>  
       </html>  
       
-* Utilizamos <style > para darle color  rojo, al párrafo.  
+* Utilizamos la etiqueta < style > para darle color  rojo, al párrafo.  
       
       <style>
       P {
