@@ -26,7 +26,9 @@
       </style>
       </head>
       <body>
-      <h1>Color rojo</h1                         <p>Este es un párrafo de color                rojo.</p>
+      <h1>Color rojo</h1  
+      
+      <p>Este es un párrafo de color rojo</p>
       </body>
       </html>  
       
