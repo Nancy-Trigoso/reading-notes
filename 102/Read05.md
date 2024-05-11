@@ -20,17 +20,18 @@
       <html>
       <head>
       <style>
-       P {
+       p {
        color: red;
        }
       </style>
       </head>
       <body>
-      <h1>This is heading 1</h1                  <p>Este es un oarrafsro de color           rojo.</p>
+      <h1>This is heading 1</h1                  <p>Este es un párrafo de color                rojo.</p>
       </body>
       </html>  
       
-      * Utilizamos <style> para darle   color rojo, al párrafo.
+* Utilizamos <style> para darle    color rojo, al párrafo.  
+      
       <style>
       P {
       color: red;
