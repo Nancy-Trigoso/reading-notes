@@ -16,13 +16,13 @@
                   
 **3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "< p >."**  
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  color: red;
-}
+      <!DOCTYPE html>
+      <html>
+      <head>
+      <style>
+       body {
+       color: red;
+       }
 </style>
 </head>
 <body>
