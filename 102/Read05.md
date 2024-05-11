@@ -20,18 +20,18 @@
       <html>
       <head>
       <style>
-       body {
+       P {
        color: red;
        }
-</style>
-</head>
-<body>
-<h1>This is heading 1</h1                   <p>This is an ordinary paragraph. Notice that this text is red. The default text-color for a page is defined in the body selector.</p>
-</body>
-</html>  
-* Utilizamos <style>para darle color rojo, al párrafo.
-<style>
-P {
-  color: red;
-}
-</style>
+      </style>
+      </head>
+      <body>
+      <h1>This is heading 1</h1                  <p>Este es un oarrafsro de color           rojo.</p>
+      </body>
+      </html>  
+* Utilizamos <style> para darle color     rojo, al párrafo.
+      <style>
+      P {
+      color: red;
+      }
+      </style>
