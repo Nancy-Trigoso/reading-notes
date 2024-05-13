@@ -6,13 +6,14 @@
   
   Las variables de JavaScript se pueden      declarar de 4 formas:
     
-    * Automáticamente
-    * Usando var
-    * Usando let
-    * Usando const
-    En este primer ejemplo, x, y, z son        variables no declaradas.
-
-    Se declaran automáticamente cuando se      utilizan por primera vez:
+ * Automáticamente
+ * Usando var
+ * Usando let
+ * Usando const
+ 
+ En este primer ejemplo, x, y, z son        variables no declaradas.  
+ 
+ Se declaran automáticamente cuando se      utilizan por primera vez:
 
     Ejemplo
     x = 5;
