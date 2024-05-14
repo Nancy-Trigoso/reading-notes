@@ -21,9 +21,8 @@
    
    y = 6;
    
-   z = x + y;  
-      
-
+   z = x + y;
+ 
 2. ¿Qué significa “declarar” una variable?
 
     Significado almacenar datos,               instrucciones que están separadas por      punto y coma (;).
