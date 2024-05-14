@@ -2,7 +2,7 @@
 
 **1.¿Qué son las variables en JavaScript?**  
   
-     Las variables son contenedores para almacenar datos.
+Las variables son contenedores para almacenar datos.
 
 **2.¿Qué significa “declarar” una variable?**
 
@@ -36,8 +36,8 @@ Las variables de JavaScript se puede declarar de 4 formas:
 
 **3.¿Qué es un operador de “asignación” y       qué hace?**
 
-     Se utiliza para asignar valores a su       variable,asigna el valor de su             operando derecho a su operando             izquierdo. Es decir, x = y asigna el       valor de y a x . el signo  igual ( =)      es un operador de "asignación".
+  Se utiliza para asignar valores a su       variable,asigna el valor de su             operando derecho a su operando             izquierdo. Es decir, x = y asigna el       valor de y a x . el signo  igual ( =)      es un operador de "asignación".
 
 **4.¿Cómo se llama la información recibida     del usuario?**
    
-     Entrada de usuario 
+  Entrada de usuario 
