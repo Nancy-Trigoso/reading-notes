@@ -4,14 +4,14 @@
  
      Las variables son contenedores para almacenar datos.  
   
-     Las variables de JavaScript se pueden      declarar de 4 formas:
+     Las variables de JavaScript se puede declarar de 4 formas:
     
      * Automáticamente
      * Usando var
      * Usando let
      * Usando const
  
-     En este primer ejemplo, x, y, z son        variables no declaradas.  
+     En este primer ejemplo, x, y, z son variables no declaradas.  
  
      Se declaran automáticamente cuando se      utilizan por primera vez:
 
