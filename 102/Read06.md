@@ -15,9 +15,12 @@
   
   Se declaran automáticamente cuando se utilizan por primera vez:
 
-   Ejemplo
+   Ejemplo:
+   
    x = 5;
+   
    y = 6;
+   
    z = x + y;  
       
 2. ¿Qué significa “declarar” una variable?
