@@ -19,6 +19,7 @@
     x = 5;
     y = 6;
     z = x + y;  
+    
 2. ¿Qué significa “declarar” una variable?
 
     Significado almacenar datos,               instrucciones que están separadas por      punto y coma (;).
@@ -33,9 +34,12 @@
 
    + const:
      Declara un nombre de constante de          solo lectura y ámbito de bloque.
+
+   
 3. ¿Qué es un operador de “asignación” y       qué hace?
 
     Se utiliza para asignar valores a su       variable,asigna el valor de su             operando derecho a su operando             izquierdo. Es decir, x =     y asigna      el valor de y a x . el signo     igual     ( =) es un operador de                     "asignación".
 
 4. ¿Cómo se llama la información recibida     del usuario?
+   
    Prompt
