@@ -23,7 +23,7 @@
    
    z = x + y; 
 
-2.¿Qué significa “declarar” una variable?
+**2.¿Qué significa “declarar” una variable?**
 
 Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).
    
@@ -39,10 +39,10 @@ JavaScript tiene tres tipos de declaraciones de variables.
      Declara un nombre de constante de          solo lectura y ámbito de bloque.
 
 
-3.¿Qué es un operador de “asignación” y       qué hace?
+**3.¿Qué es un operador de “asignación” y       qué hace?**
 
   Se utiliza para asignar valores a su variable,asigna el valor de su operando derecho a su operando izquierdo. Es decir, x = y asigna el valor de y a x . el signo  igual ( =) es un operador de "asignación".
 
-4.¿Cómo se llama la información recibida     del usuario?
+**4.¿Cómo se llama la información recibida     del usuario?**
    
    Entrada de usuario 
