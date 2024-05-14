@@ -6,9 +6,9 @@
 
 **2.¿Qué significa “declarar” una variable?**
 
-     Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).  
+Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).  
      
-     Las variables de JavaScript se puede declarar de 4 formas:
+Las variables de JavaScript se puede declarar de 4 formas:
     
    + Automáticamente:
   
