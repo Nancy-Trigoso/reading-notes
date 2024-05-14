@@ -1,7 +1,7 @@
 # Paginas web dinámicas con JavaScript  
 
-1.¿Qué son las variables en JavaScript? 
-   
+1.¿Qué son las variables en JavaScript?  
+
    Las variables son contenedores para        almacenar datos.  
   
    Las variables de JavaScript se pueden      declarar de 4 formas:
