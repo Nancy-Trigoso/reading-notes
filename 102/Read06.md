@@ -2,14 +2,17 @@
 
 **1.¿Qué son las variables en JavaScript?** 
    
-  Las variables son contenedores para almacenar datos.  
-  
-  Las variables de JavaScript se puede declarar de 4 formas:
+  Las variables son contenedores para almacenar datos.
+
+**2.¿Qué significa “declarar” una variable?**
+
+Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).
+   
+JavaScript tiene cuatro tipos de declaraciones de variables.
+ 
+ Las variables de JavaScript se puede declarar de 4 formas:
     
-  * Automáticamente
-  * Usando var
-  * Usando let
-  * Usando const
+   + Automáticamente:
   
    En este primer ejemplo, x, y, z son variables no declaradas.  
   
@@ -21,13 +24,7 @@
    
    y = 6;
    
-   z = x + y; 
-
-**2.¿Qué significa “declarar” una variable?**
-
-Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).
-   
-JavaScript tiene tres tipos de declaraciones de variables.
+   z = x + y;
 
    + var:
      Declara una variable, opcionalmente        la inicia a un valor.
