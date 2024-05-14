@@ -25,7 +25,7 @@
 
 2.¿Qué significa “declarar” una variable?
 
-Significado almacenar datos, instrucciones que están separadas por punto y coma (;).
+Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).
    
 JavaScript tiene tres tipos de declaraciones de variables.
 
