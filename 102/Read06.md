@@ -13,7 +13,7 @@
  
      En este primer ejemplo, x, y, z son variables no declaradas.  
  
-     Se declaran automáticamente cuando se      utilizan por primera vez:
+     Se declaran automáticamente cuando se utilizan por primera vez:
 
       Ejemplo
       x = 5;
