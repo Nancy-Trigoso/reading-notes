@@ -9,6 +9,7 @@
      Es nombrarla por primera vez, almacena datos, instrucciones que están separadas por punto y coma (;).
        
      
+    
      Las variables de JavaScript se puede declarar de 4 formas:
     
    + Automáticamente:
