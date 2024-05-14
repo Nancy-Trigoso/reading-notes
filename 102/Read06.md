@@ -2,7 +2,7 @@
 
 **1.¿Qué son las variables en JavaScript?** 
    
-    Las variables son contenedores para almacenar datos.
+      Las variables son contenedores para almacenar datos.
 
 **2.¿Qué significa “declarar” una variable?**
 
