@@ -45,4 +45,4 @@
 
 4. ¿Cómo se llama la información recibida     del usuario?
    
-   Prompt
+   Entrada de usuario 
