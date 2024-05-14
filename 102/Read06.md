@@ -4,16 +4,16 @@
    
    Las variables son contenedores para        almacenar datos.  
   
-  Las variables de JavaScript se pueden      declarar de 4 formas:
+   Las variables de JavaScript se pueden      declarar de 4 formas:
     
- * Automáticamente
- * Usando var
- * Usando let
- * Usando const
+  * Automáticamente
+  * Usando var
+  * Usando let
+  * Usando const
  
- En este primer ejemplo, x, y, z son        variables no declaradas.  
+   En este primer ejemplo, x, y, z son        variables no declaradas.  
  
- Se declaran automáticamente cuando se      utilizan por primera vez:
+   Se declaran automáticamente cuando se      utilizan por primera vez:
 
     Ejemplo
     x = 5;
@@ -36,3 +36,5 @@
 3. ¿Qué es un operador de “asignación” y       qué hace?
 
     Se utiliza para asignar valores a su       variable,asigna el valor de su             operando derecho a su operando             izquierdo. Es decir, x =     y asigna      el valor de y a x . el signo     igual     ( =) es un operador de                     "asignación".
+
+4. ¿Cómo se llama la información recibida     del usuario?
