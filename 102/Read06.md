@@ -4,7 +4,7 @@
    
    Las variables son contenedores para almacenar datos.  
   
-     Las variables de JavaScript se puede declarar de 4 formas:
+  Las variables de JavaScript se puede declarar de 4 formas:
     
      * Automáticamente
      * Usando var
