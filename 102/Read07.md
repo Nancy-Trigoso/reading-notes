@@ -6,7 +6,7 @@ Es el orden en el que la computadora ejecuta declaraciones en un script.
      
 ## 2. ¿Qué es una “function” (Función) de JavaScript?
 
-     Es un bloque de código diseñado para realizar una tarea particular, instrucciones que realiza una tarea o calcula un valor, pero 
+Es un bloque de código diseñado para realizar una tarea particular, instrucciones que realiza una tarea o calcula un valor, pero 
      para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia 
      entre la entrada y la salida. Para usar una función, debe definirla en algún lugar del ámbito desde el que deseas llamarla.
      
