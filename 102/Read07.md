@@ -23,12 +23,9 @@
       + Automáticamente (autoinvocado)
 
   4. ¿Para qué sirven los paréntesis () cuando defines una función?
-     
-      + Agrupar código para ser ejecutado en un orden especifico.
 
-      + Decirle al lenguaje que deberá usar el resultado de una operación agrupada por otras solo cuando esta haya finalizado de realizar 
-        sus procesos y convertirse en cierto valor.
+     Sirve para definir los parámetros dentro de la función, que vendrían a ser varibles locales.
      
-      + Aquello que este dentro de paréntesis siempre sera ejecutado primero.
+      + Aquello que este dentro del paréntesis siempre sera ejecutado primero.
 
 
