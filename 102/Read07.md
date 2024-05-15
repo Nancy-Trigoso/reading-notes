@@ -20,7 +20,7 @@ El código dentro de la función se ejecutará cuando "algo" invoque (llame) la 
 
 + Automáticamente (autoinvocado)
 
-## 4. ¿Para qué sirven los paréntesis () cuando defines una función?
+__4. ¿Para qué sirven los paréntesis () cuando defines una función?__
 
 Sirve para definir los parámetros dentro de la función, vendrían a ser varibles locales.
      
