@@ -2,6 +2,7 @@
 
 **1. ¿Qué es “Control Flow” (Control de Flujo)?**
 
+     
      Es el orden en el que la computadora ejecuta declaraciones en un script.
      
 2. ¿Qué es una “function” (Función) de JavaScript?
