@@ -1,11 +1,11 @@
-## Programación con JavaScript
+# Programación con JavaScript
 
-### 1. ¿Qué es “Control Flow” (Control de Flujo)?
+##1. ¿Qué es “Control Flow” (Control de Flujo)?
 
      
      Es el orden en el que la computadora ejecuta declaraciones en un script.
      
-2. ¿Qué es una “function” (Función) de JavaScript?
+##2. ¿Qué es una “function” (Función) de JavaScript?
 
      Es un bloque de código diseñado para realizar una tarea particular, instrucciones que realiza una tarea o calcula un valor, pero 
      para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia 
