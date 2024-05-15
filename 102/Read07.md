@@ -11,7 +11,7 @@ __1. ¿Qué es “Control Flow” (Control de Flujo)?__
      para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia 
      entre la entrada y la salida. Para usar una función, debe definirla en algún lugar del ámbito desde el que deseas llamarla.
      
-## 3. ¿Qué significa “invoke” o “call” en una función?**
+## 3. ¿Qué significa “invoke” o “call” en una función?
 
       Llama a una función con un valor dado y con argumentos provistos individualmente.
 
@@ -23,7 +23,7 @@ __1. ¿Qué es “Control Flow” (Control de Flujo)?__
 
       + Automáticamente (autoinvocado)
 
-## 4. ¿Para qué sirven los paréntesis () cuando defines una función?**
+## 4. ¿Para qué sirven los paréntesis () cuando defines una función?
 
      Sirve para definir los parámetros dentro de la función, vendrían a ser varibles locales.
      
