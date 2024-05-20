@@ -16,7 +16,7 @@
     Un bucle for se repite hasta que una condición especificada se evalúe como false.
 
 **4.¿Cuántas veces se ejecutará un bucle “ while “?**  
-    Ejecutará sus instrucciones las veces que necesario siempre que una condición especificada se evalúe como true.  
+    Ejecutará sus instrucciones las veces que sea necesario siempre que una condición especificada se evalúe como true.  
     Si la condición se vuelve false, la instrucción dentro del bucle se deja de ejecutar y el control pasa a la instrucción que sigue al 
     bucle.
 
