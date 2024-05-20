@@ -14,7 +14,6 @@
     Le dices a Lucia que dé 10 pasos en hacia la dercha y luego 5 pasos a la izquierda.
 
 **3.¿Cuándo deja de ejecutarse un bucle for?**
-
     Un bucle for se repite hasta que una condición especificada se evalúe como false.
 
 **4.¿Cuántas veces se ejecutará un bucle “ while “?**
