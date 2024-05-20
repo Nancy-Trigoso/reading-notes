@@ -7,7 +7,7 @@ Es cualquier unidad de código válida que se resuelve en un valor.
   + *Segundo tipo:*
     El código 3 + 4, esta expresión usa el operador + para sumar tres y cuatro sin asignar el resultado, siete, a una variable.
 
-**2.¿Por qué usaríamos un bucle en nuestro código?**
+**2.¿Por qué usaríamos un bucle en nuestro código?**  
     Porque es una forma rápida y sencilla de repetir una parte del código muchas veces, o repetirlo pero cambiándole algo cada vez. 
     Ejemplo:
     Le dices a Lucia que dé 10 pasos en hacia la dercha y luego 5 pasos a la izquierda.
