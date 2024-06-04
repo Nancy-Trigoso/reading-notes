@@ -2,7 +2,7 @@
   
    **1.¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?**
           
-          1. Autocompletar código 
+          1. Autocompletar el código 
           2. Resaltado de sintaxis 
           3. Una buena variedad de temas 
           4. La posibilidad de elegir  entre una amplia selección de extensiones disponibles cuando las necesite.
