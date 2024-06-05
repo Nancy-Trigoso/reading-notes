@@ -16,8 +16,8 @@ En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 10
    * [Read 07: Programación con JavaScript](https://nancy-trigoso.github.io/reading-notes/102/Read07.html)
    * [Read 08: Operadores y bucles](https://nancy-trigoso.github.io/reading-notes/102/Read08.html)
 2. **Notas de lectura del Código 201 Fundamentos del Desarrollo de Software**  
-   * [Read 01:](https://nancy-trigoso.github.io/reading-notes/201/Read01.html)
-   * [Read 02:](https://nancy-trigoso.github.io/reading-notes/201/Read02.html)
+   * [Read 01: Configuración de Herramientas para Desarrolladores](https://nancy-trigoso.github.io/reading-notes/Code 201 - Fundamentos del Desarrollo de Software/Clase-01).
+   * [Read 02:](https://nancy-trigoso.github.io/reading-notes/)
    * [Read 03:](https://nancy-trigoso.github.io/reading-notes/201/Read03.html)
    * [Read 04:](https://nancy-trigoso.github.io/reading-notes/201/Read04.html)
    * [Read 05:](https://nancy-trigoso.github.io/reading-notes/201/Read05.html)
