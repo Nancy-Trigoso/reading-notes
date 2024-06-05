@@ -114,9 +114,11 @@ una variable llamada name.
 + Primero:haz una copia local de Un archivo y guárdalo en un directorio en algún lugar accesible.
 + Abre el archivo en tu navegador web y en tu editor de texto.
 + A continuación, ve a tu editor de texto y agrega lo siguiente en tu head, justo antes de tu etiqueta de cierre </ head>:
+
           <script>
-          // JavaScript va aquí
+                  // JavaScript va aquí
           </script>
+  
 + Ahora agregaremos algo de JavaScript dentro de nuestro elemento < script >.
 + Guarda tu archivo y actualiza el navegador .
 
