@@ -1,7 +1,7 @@
 # Introducción a Git
 **1. ¿Qué es el control de versiones?**
    
-    Es un sistema que permite revisar varias versiones de un archivo o conjunto de archivos registrando los cambios.
+    Sistema que permite revisar varias versiones de un archivo o conjunto de archivos registrando los cambios.
     
 **2. ¿Qué es “clone” en Git?**
     
