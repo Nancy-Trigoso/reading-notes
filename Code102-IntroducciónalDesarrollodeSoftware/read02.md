@@ -1,4 +1,4 @@
-# **La computadora del Programador** 
+# **La Computadora del Programador** 
   
    **1.¿Cuáles son las cuatro características importantes que se deben buscar en un editor de texto?**
           
