@@ -22,7 +22,7 @@ El código dentro de la función se ejecutará cuando "algo" invoque (llame) la 
 
 __4. ¿Para qué sirven los paréntesis () cuando defines una función?__
 
-Sirve para definir los parámetros dentro de la función, vendrían a ser varibles locales.
+Sirve para definir los parámetros dentro de una función que vendrían a ser varibles locales.
      
 + Aquello que este dentro del paréntesis siempre sera ejecutado primero.
 
