@@ -42,7 +42,7 @@ Ejemplo, el atributo class es un nombre de identificación utilizado para identi
 **2.Describe la anatomía de un elemento en HTML.**
 La anatomía de un elemeto HTML esta conformado de una etiquetas <html>, que indica el comienzo de la página; <head>, que contiene información más descriptiva sobre el sitio; y <body>, que conforma todos los elementos visibles de la página.
 
-**3.¿Cuál es la diferencia entre las etiquetas <article> y <section>?**
+**3.¿Cuál es la diferencia entre las etiquetas < article > y < section >?**
 
 + La etiqueta < article >: encuadra un bloque de contenido que tiene un contenido independiente aparte del resto de la página.
 + La etiqueta < section >: define la sección en un documento.
