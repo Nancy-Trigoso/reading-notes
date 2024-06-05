@@ -2,8 +2,8 @@
 
 **1. ¿Qué es HTML y por qué lo usamos?**
 
-    Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language, es el componente más básico de la Web. Se utiliza para 
-    estructurar y desplegar una página web y sus contenidos.  
+    Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language, es el componente más básico de la Web. 
+    Se utiliza para estructurar y desplegar una página web y sus contenidos.  
 
 **2. ¿Cuáles son las 3 partes principales de un elemento HTML?**
 
