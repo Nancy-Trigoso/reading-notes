@@ -18,15 +18,32 @@ Puedes encontrar de imágenes gratuitas en varias páginas de google lo descarga
 No todas las imágenes que descargas son gratis.
 Algunas fotos que se pueden descargar gratis requieren acreditación del autor.
 Aquí te dejo algunas páginas para que puedas buscar imagenes que desees.
-+ 1. Freepik
-+ 2. Pixabay
-+ 3. Pexels
-+ 4. FreeImages
-+ 5. Magdeleine.co
-+ 6. Unsplash
-+ 7. Visual Hunt
-+ 8. Gratisography
-+ 9. Stockio
-+ 10. AllTheFreeStock
++ Freepik
++ Pixabay
++ Pexels
++ FreeImages
++ Magdeleine.co
+
+**4.¿Cómo creas una String en comparación con un Number en Javascript?**
+
+Un string se crea entre comillas('Nancy') y un number solo se coloca un número(10).
+
+**5.¿Qué es una Variable y por qué son importantes en JavaScript?**
+
+Las variable son contenedores en los que puedes almacenar valores.
+Las variables son importantes para hacer cualquier cosa interesante en programación. Si los valores no pudieran cambiar, entonces no podrías hacer nada dinámico, como personalizar un mensaje de bienvenida de un usuario que visita tu página, cambiar la imagen que se muestra en una galería de imágenes, etc.
+
+# **Introducción a HTML**
+**1.¿Qué es un atributo en HTML?**
+
+Son valores adicionales que configuran un elemento que no aparecerá en nuestra página web. 
+Ejemplo, el atributo class es un nombre de identificación utilizado para identificar el elemento con información de estilo.
+
+**2.Describe la anatomía de un elemento en HTML.**
+La anatomía de un elemeto HTML esta conformado de una etiquetas <html>, que indica el comienzo de la página; <head>, que contiene información más descriptiva sobre el sitio; y <body>, que conforma todos los elementos visibles de la página.
+
+**3.¿Cuál es la diferencia entre las etiquetas <article> y <section>?**
++ <article>:
+
 
 
