@@ -1,7 +1,7 @@
 # Markdown
 **1. ¿Qué es Markdown?**
 
-   Es un método de escritura que esta basado en un texto plano que nos permite crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible.
+   Es un método de escritura que esta basado en un texto plano que nos permite crear contenido de una manera sencilla de escribir y que en todo momento mantenga un diseño legible.
   
   **2. ¿Por qué utilizamos Markdown?**
 
