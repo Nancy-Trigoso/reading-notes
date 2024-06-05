@@ -48,7 +48,7 @@
       
   ***4.cd ..***
     
-    Se utiliza para salir de una carpeta e ir al nivel superior o carpeta donde estaba alojada.
+    Lo utilizamos para salir de una carpeta e ir al nivel superior o carpeta donde estaba alojada.
      
   ***5.ls projects/new-project***
     
