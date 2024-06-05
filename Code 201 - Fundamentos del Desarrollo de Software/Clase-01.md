@@ -47,5 +47,25 @@ La anatomía de un elemeto HTML esta conformado de una etiquetas <html>, que ind
 + La etiqueta < article >: encuadra un bloque de contenido que tiene un contenido independiente aparte del resto de la página.
 + La etiqueta < section >: define la sección en un documento.
 
+**4.¿Qué elementos se incluyen en una página web “típica”?**
+
+Una página web típica tendría estos elementos:
++ Header
++ Main content
++ 1 o 2 barras laterales dependiendo de las páginas
++ Footer
+
+**5.¿Cómo influyen los metadatos en el Posicionamiento en buscadores (SEO)?**
+
+Los metados ayudan son muy influyentes en los SEO ya que los motores de búsqueda los usan para obtener información de tu página web. Si tienes una estructuración correcta de los metadatos es más fácil para los  motores clasificarte para mejor así tu posicionamiento.
+
+**6.¿Cómo se utliza la etiqueta <meta> en HTML cuando se quiere especificar metadatos?**
+
+Se puede utilizar en el encabezado de la página, por lo que sólo son visibles para los motores de búsqueda.
+Ejemplo: 
+<head>
+  <meta charset="utf-8" />
+  <title>Mi página de prueba</title>
+</head>
 
 
