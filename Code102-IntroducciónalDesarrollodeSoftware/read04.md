@@ -21,5 +21,5 @@
 
     Describen con precisión el propósito del elemento y el tipo de contenido que hay dentro de ellos.  
      
-  * Ejemplo: *el elemento <h1> es un elemento semántico, que le da al texto que envuelve la función (o significado) de "un         
-    encabezado de nivel superior en su página".*
+    Ejemplo: *el elemento < h1 > es un elemento semántico, que le da al texto que envuelve la función (o significado) de "un         
+    encabezado de nivel superior en su página".
