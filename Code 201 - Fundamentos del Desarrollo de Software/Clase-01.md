@@ -63,9 +63,10 @@ Los metados ayudan son muy influyentes en los SEO ya que los motores de búsqued
 
 Se puede utilizar en el encabezado de la página, por lo que sólo son visibles para los motores de búsqueda.
 Ejemplo: 
-<head>
-  <meta charset="utf-8" />
-  <title>Mi página de prueba</title>
-</head>
+
+    <head>
+          <meta charset="utf-8" />
+          <title>Mi página de prueba</title>
+    </head>
 
 
