@@ -69,4 +69,56 @@ Ejemplo:
           <title>Mi página de prueba</title>
     </head>
 
+# **Miscelánea**
+## **¿Cómo empiezo a diseñar mi sitio web?.**
+1.¿Cuál es el primer paso para diseñar una página web?
+
+El primer para diseñar una página web es hacerte estas preguntas:
+
++ ¿Qué es exactamente lo que quiero lograr?
++ ¿Cómo un sitio web me ayudará a alcanzar mis metas?
++ ¿Qué es necesario hacer, y en qué orden, para alcanzar mis metas?
+
+Tenemos que  idealizar nuestro proyecto y es un primer paso necesario para alcanzar nuestras metas, sin importar si eres un desarrollador principiante o experimentado.
+
+2.¿Cuál es la pregunta más importante que se debe responder al diseñar una página web?
+
+La  pregunta más importante que se debe responder al diseñar una página web es:
++ ¿Qué es exactamente lo que quiero lograr?
+Esta pregunta nos impulsa a lograr nuestras metas.
+
+## **Semántica.**
+1.¿Por qué se debe utilizar un elemento < h1 > en vez de un < span > para mostrar un título de primer nivel?
+
+El elemento h1 es un elemento semántico, que le da al texto que envuelve la función (o significado) de "un encabezado de nivel superior en su página".
+En cambio el elemento span hará que parezca un título de nivel superior, pero no tiene valor semántico, por lo que no obtendrá ningún beneficio adicional como se describe anteriormente.
+
+2.¿Cuáles son los beneficios de utilizar etiquetas semánticas en nuestro HTML?
+
+Algunos beneficios sería:
++ Los motores de búsqueda considerarán su contenido como palabras clave importantes para influir en el ranking de búsqueda de la página (ver SEO ).
++ Los lectores de pantalla pueden utilizarlo como señal para ayudar a los usuarios con discapacidad visual a navegar por una página.
++ Encontrar bloques de código significativo es significativamente más fácil que buscar en interminables div mensajes de correo electrónico con o sin clases semánticas o con espacios de nombres.
++ Sugiere al desarrollador el tipo de datos que se completarán.
++ La denominación semántica refleja la denominación personalizada adecuada de elementos/componentes.
+
+## **¿Qué es JavaScript?**
+1. Describe 2 cosas que requieran de JavaScript en el navegador.
+
++ Almacenar valores útiles dentro de variables. Por ejemplo, pedimos que ingreses un nuevo nombre y luego almacenamos ese nombre en 
+una variable llamada name.
++ Operaciones sobre fragmentos de texto.  Por ejemplo, tomamos la cadena "Player1:" y la unimos a la variable name para crear la etiqueta de texto completa, p. ej. ''Player1: Chris".
+  
+2. ¿Cómo se puede añadir JavaScript a un documento en HTML?
+
++ Primero:haz una copia local de Un archivo y guárdalo en un directorio en algún lugar accesible.
++ Abre el archivo en tu navegador web y en tu editor de texto.
++ A continuación, ve a tu editor de texto y agrega lo siguiente en tu head, justo antes de tu etiqueta de cierre </ head>:
+          <script>
+          // JavaScript va aquí
+          </script>
++ Ahora agregaremos algo de JavaScript dentro de nuestro elemento < script >.
++ Guarda tu archivo y actualiza el navegador .
+
+
 
