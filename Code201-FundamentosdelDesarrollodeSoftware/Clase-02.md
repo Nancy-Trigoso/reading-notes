@@ -36,8 +36,10 @@ Ejemplo: `<h1 style="color: Pink ;background-color: White ;border: 1px solid bla
 Por que cuando tengas que actualizar algo, añadir un nuevo color o darle otra forma, tienes que hacerlo en todo el documento, en cada linea que utilizaste estilos inline,también mezcla tu información, lo que dificulta la lectura y la comprension del codigo. 
 
 **3.Revisa el código a continuación y responde a las siguientes preguntas:**
+
 **1.¿Qué representa el selector?**
 Representa la aplicación de estilos a nuestro documento HTML. 
+
 **2.¿Qué componentes son declaraciones CSS?**
 
 
