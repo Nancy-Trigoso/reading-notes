@@ -1,6 +1,6 @@
 # **Configuración de Herramientas para Desarrolladores**
 
-Estos temas que vamos a tratar son muy importantes para nuestro camino como desarrolladores, HTTP, CSS Y JS son fundamentales para crear nuestra página web, ya que nos ayuda estar preparados y tener conocimiento previo a nuestra clase y laboratorios.
+Estos temas que vamos a tratar son muy importantes para nuestro camino como desarrolladores, HTML, CSS Y JS son fundamentales para crear nuestra página web, ya que nos ayuda estar preparados y tener conocimiento previo a nuestra clase y laboratorios.
 
 ## **Primeros Pasos**
 **1.Crea un poema corto describiendo cómo HTTP envía datos entre computadoras.**
@@ -130,6 +130,11 @@ una variable llamada name.
 
 ## Fuentes de lectura
 
-+
++ [Fundamentos de Java Script](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
++ [Estructura web y documentación?](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
++ [Metados en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
++ ¿Cómo empiezo a diseñar mi sitio web?](https://developer.mozilla.org/es/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
++ [Semantica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
++ [¿Qué es JavaScript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
