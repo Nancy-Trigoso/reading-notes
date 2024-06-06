@@ -1,5 +1,7 @@
 # **Configuración de Herramientas para Desarrolladores**
 
+Estos temas que vamos a tratar son muy importantes para nuestro camino como desarrolladores, HTTP, CSS Y JS son fundamentales para crear nuestra página web, ya que nos ayuda estar preparados y tener conocimiento previo a nuestra clase y laboratorios.
+
 ## **Primeros Pasos**
 **1.Crea un poema corto describiendo cómo HTTP envía datos entre computadoras.**
 
@@ -88,7 +90,7 @@ La  pregunta más importante que se debe responder al diseñar una página web e
 Esta pregunta nos impulsa a lograr nuestras metas.
 
 ## **Semántica.**
-1.¿Por qué se debe utilizar un elemento < h1 > en vez de un < span > para mostrar un título de primer nivel?
+1.¿Por qué se debe utilizar un elemento `<h1>` en vez de un < span > para mostrar un título de primer nivel?
 
 El elemento h1 es un elemento semántico, que le da al texto que envuelve la función (o significado) de "un encabezado de nivel superior en su página".
 En cambio el elemento span hará que parezca un título de nivel superior, pero no tiene valor semántico, por lo que no obtendrá ningún beneficio adicional como se describe anteriormente.
@@ -122,5 +124,12 @@ una variable llamada name.
 + Ahora agregaremos algo de JavaScript dentro de nuestro elemento < script >.
 + Guarda tu archivo y actualiza el navegador .
 
+## Cosas de las que quiero saber más
++ Estilos de css
++ Más temas a profundidad de JS.
+
+## Fuentes de lectura
+
++
 
 
