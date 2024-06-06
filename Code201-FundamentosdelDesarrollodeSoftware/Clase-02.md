@@ -95,10 +95,10 @@ Se usa para agregar y detallar una nueva condición, si la primera condicion ret
 + No es igual ( != )
 + Mayor que(>)
 
-**4.¿Cuál es la diferencia entre los operadores lógicos && y ||?**
+**4.¿Cuál es la diferencia entre los operadores lógicos && y `||´?**
 
 + &&: permite encadenar dos o más expresiones, si todas son verdaderas retornará verdadero.
-+ ||: permite encadenar dos o más expresiones, basta que una sea verdadera para que retorne verdadero.
++ `||`: permite encadenar dos o más expresiones, basta que una sea verdadera para que retorne verdadero.
 
 ## **Cosas de las que quiero saber más**
 
