@@ -133,7 +133,7 @@ una variable llamada name.
 + [Fundamentos de Java Script](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 + [Estructura web y documentación?](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 + [Metados en HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-+ ¿Cómo empiezo a diseñar mi sitio web?](https://developer.mozilla.org/es/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
++ [¿Cómo empiezo a diseñar mi sitio web?](https://developer.mozilla.org/es/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)
 + [Semantica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 + [¿Qué es JavaScript?](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
