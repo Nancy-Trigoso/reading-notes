@@ -55,6 +55,7 @@ Representa la aplicación de estilos a nuestro documento HTML.
   * El selector, las propiedades y los valores.
 
 **3.¿Qué componentes se consideran propiedades?**
+
 h2 {
      color: black;
      padding: 5px;
@@ -81,9 +82,37 @@ Tipo de dato String
 
 **1.Si una declaración if comprueba un __ y si resulta ___, entonces el código se ejecutará.**
 
-+ Condición  + Verdadera
++ Condición  
++  Verdadera
 
 **2.¿Cuál es el uso del else if?**
+
+Se usa para agregar y detallar una nueva condición, si la primera condicion retorne falso, else if agrega la nueva condición.
+
+**3.Enumera 3 tipos de operadores de comparación.**
+
++ Igual ( == )
++ No es igual ( != )
++ Mayor que(>)
+
+**4.¿Cuál es la diferencia entre los operadores lógicos && y ||?**
+
++ &&: permite encadenar dos o más expresiones, si todas son verdaderas retornará verdadero.
++ ||: permite encadenar dos o más expresiones, basta que una sea verdadera para que retorne verdadero.
+
+## **Cosas de las que quiero saber más**
+
+* componentes son declaraciones CSS
+* Operadores de asignación y comparación.
+
+## Fuentes de lectura.
+
++ [Fundamentos de texto en HTML.](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
++ [Formateo de texto avanzado.](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
++ [https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting](https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/How_CSS_is_structured)
++ [ Fundamentos de JavaScript.](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
++ [Tomando decisiones en tu código — condicionales.](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals)
+
 
 
 
