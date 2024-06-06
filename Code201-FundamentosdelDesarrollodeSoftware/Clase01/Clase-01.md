@@ -2,7 +2,7 @@
 
 Estos temas que vamos a tratar son muy importantes para nuestro camino como desarrolladores, HTML, CSS Y JS son fundamentales para crear nuestra página web, ya que nos ayuda estar preparados y tener conocimiento previo a nuestra clase y laboratorios.
 
-## **Primeros Pasos**
+## **Fundamentos de JavaScript**
 **1.Crea un poema corto describiendo cómo HTTP envía datos entre computadoras.**
 
 El cliente envía una petición, se transmite por internet.
