@@ -24,11 +24,11 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
 **4.Describe dos formas en las que puedes cambiar los números en los elementos de la lista proporcionados por una lista ordenada.**
 + Usando el tipo de número romano
-          <ol type="i">
-          <li>Introduction</li>
-          <li>List of Grievances</li>
-          <li>Conclusion</li>
-          </ol>
+  `<ol type="i">`
+  `<li>Introduction</li>`
+  `<li>List of Grievances</li>`
+  `<li>Conclusion</li>`
+  `</ol>`
 
 ### Aprende CSS
 
