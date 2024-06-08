@@ -26,9 +26,13 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 + Usando el tipo de número romano
 
   `<ol type="i">`
+  
   `<li>Introduction</li>`
+  
   `<li>List of Grievances</li>`
+  
   `<li>Conclusion</li>`
+  
   `</ol>`
 
 ### Aprende CSS
