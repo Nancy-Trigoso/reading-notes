@@ -27,13 +27,19 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
   `<ol type="i">`
   
-  `<li>Introduction</li>`
+  `<li>Introducción</li>`
   
-  `<li>List of Grievances</li>`
+  `<li>Lista de personal</li>`
   
   `<li>Conclusion</li>`
   
   `</ol>`
+
+  <ol type="i">
+  <li>Introduction</li>
+  <li>List of Grievances</li>
+  <li>Conclusion</li>
+  </ol>
 
 ### Aprende CSS
 
