@@ -69,6 +69,7 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 **2.Enumera y describe las cuatro partes de un box del elementos HTML según el box model.**
 
 1. Content box:
+El área donde se muestra el contenido y se cambia de tamaño con width y height.
 2. Padding box:
 3. Border box:
 4. Margin box:
