@@ -35,7 +35,7 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
   `<li>Conclusion</li>`
   
   `</ol>`
-------------------------------
+  
   Se mostraría de esta manera:
   
   <ol type="i">
@@ -57,7 +57,7 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
   `<li>Alejandro Flores</li>`
   
   `</ol>`
-  ----------------------------------
+
   4. Santiago Perez
   5. Luana Martinez
   6. Alejandro Flores
@@ -65,6 +65,7 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 ### Aprende CSS
 
 **1.Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?**
+
 **2.Enumera y describe las cuatro partes de un box del elementos HTML según el box model.**
 ### Aprende JS
 **1.¿Qué tipos de datos puedes almacenar en un Array?**
@@ -77,3 +78,4 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 ## Fuentes de lectura
 + [ No ordenada ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 + [Ordenada](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
++ [The Box Model.](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
