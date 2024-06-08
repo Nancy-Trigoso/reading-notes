@@ -23,6 +23,7 @@ Ejemplo: Pasos de una receta.
 Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
 **4.Describe dos formas en las que puedes cambiar los números en los elementos de la lista proporcionados por una lista ordenada.**
+
 + Usando el tipo de número romano
 
   `<ol type="i">`
@@ -35,11 +36,31 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
   
   `</ol>`
 ------------------------------
+  Se mostraría de esta manera:
+  
   <ol type="i">
   <li>Introducción </li>
   <li>Lista de personal</li>
   <li>Conclusion</li>
   </ol>
+
++ Usando el atributo de inicio
+
+  `<p>`Lugares de finalización de las concursantes que no están en el círculo de ganadores:`</p>`
+
+  `<ol start="4">`
+  
+  `<li>Santiago Perez</li>`
+  
+  `<li>Luana Martinez</li>`
+  
+  `<li>Alejandro Flores</li>`
+  
+  `</ol>`
+  ----------------------------------
+  4. Santiago Perez
+  5. Luana Martinez
+  6. Alejandro Flores
 
 ### Aprende CSS
 
