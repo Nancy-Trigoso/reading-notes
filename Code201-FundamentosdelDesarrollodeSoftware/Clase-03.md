@@ -22,7 +22,14 @@ Ejemplo: Pasos de una receta.
 
 Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
-**4.Describe dos formas en las que puedes cambiar los números en los elementos de la lista proporcionados por una lista ordenada**
+**4.Describe dos formas en las que puedes cambiar los números en los elementos de la lista proporcionados por una lista ordenada.**
++ Usando el tipo de número romano
+<ol type="i">
+  <li>Introduction</li>
+  <li>List of Grievances</li>
+  <li>Conclusion</li>
+</ol>
+
 ### Aprende CSS
 
 **1.Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?**
