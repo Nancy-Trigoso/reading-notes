@@ -71,10 +71,11 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 1. Content box:
 El área donde se muestra el contenido y se cambia de tamaño con width y height.
 2. Padding box:
-
+Es el espacio en blanco alrededor del contenido; se puede cambiar de tamaño usando la propiedad padding y otras propiedades relacionadas.
 3. Border box:
+Envuelve el contenido y el de relleno, se puede cambiar su tamaño y estilo utilizando la propiedad border y otras propiedades relacionadas.
 4. Margin box:
-   
+Es la capa más externa. Envuelve el contenido, el relleno y el borde como espacio en blanco entre la caja y otros elementos, se puede cambiar su tamaño usando la propiedad margin y otras propiedades relacionadas.
 ### Aprende JS
 
 
