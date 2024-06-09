@@ -105,18 +105,24 @@ Divide el valor de X por el valor Y; almacena el resultado en X.
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
+Ejemplo:
 
+Estoy yendo al gym para bajar de peso y me han dado una dieta saludable bajo en grasas. En mi cena se me antoja comer un un pollo a la brasa. Estoy pensando en comer saludable o un pollito a la brasa.
+Si como saludable no romperé mi dieta y seguiré mi objetivo de bajar peso, pero si como un pollito a la brasa desviaré el camino hacia mi objetivo y lo más probable es que lo vuelva hacer y no lleguaré con el peso adecuado a la fecha indicada.
+
+Las declaraciones condicionales nos permiten representar dicha toma de decisiones en JavaScript, desde la elección que se debe realizar, hasta el resultado resultante de esas elecciones.
 
 **6.Da un ejempo de por qué un Bucle es últil en JavaScript.**
 
-Los bucles  repiten una acción varias veces, el código será ligeramente diferente cada vez que dure el bucle, o se ejecutará el mismo código pero con diferentes variables.
-
 Ejemplo: "Camina 8 pasos hacia la derecha" se podría expresar de esta manera como un bucle:
 
-for (let step = 0; step < 8; step++) {
-  console.log("Camina un paso hacia la derecha");
-}
- Se ejecuta 5 veces, con valores del paso 0 al 7.
+`for (let step = 0; step < 8; step++) {`
+  `console.log("Camina un paso hacia la derecha");`
+`}`
+ 
+ Se ejecuta 8 veces, con valores del paso 0 al 7.
+
+Los bucles son útil en javascrip porque repiten una acción varias veces, el código será ligeramente diferente cada vez que dure el bucle, o se ejecutará el mismo código pero con diferentes variables.
 
 ## Fuentes de lectura
 + [ No ordenada ](https://developer.mozi(lla.org/en-US/docs/Web/HTML/Element/ul)
@@ -124,5 +130,6 @@ for (let step = 0; step < 8; step++) {
 + [The Box Model.](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
 + [Arrays](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays)
 + [Operadores y Expresiones](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators)
++ [Condicionales](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 + [Bucles e iteración](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
   
