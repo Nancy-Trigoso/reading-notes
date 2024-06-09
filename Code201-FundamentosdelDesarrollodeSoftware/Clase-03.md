@@ -93,7 +93,7 @@ Se puede almacenar varios tipos de datos como: cadenas, números, objetos e incl
 
 `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
 
-Sí, escribimos el nombre de nuestro array, y luego insertar entre corchetes la posición del elemento al que queremos acceder.
+Sí, es un array válido por Javascript, para poder acceder a sus valores almacenados tenemos que escribir el nombre de nuestro array, y luego insertar entre corchetes la posición del elemento al que queremos acceder.
 
 **3.Enumera cinco opreadores abreviados de asignación en javascript y describe lo que hacen.**
 1. Asignación: x = y
