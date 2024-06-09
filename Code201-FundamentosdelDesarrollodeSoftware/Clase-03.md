@@ -117,7 +117,9 @@ Las declaraciones condicionales nos permiten representar dicha toma de decisione
 Ejemplo: "Camina 8 pasos hacia la derecha" se podría expresar de esta manera como un bucle:
 
 `for (let step = 0; step < 8; step++) {`
+
   `console.log("Camina un paso hacia la derecha");`
+  
 `}`
  
  Se ejecuta 8 veces, con valores del paso 0 al 7.
