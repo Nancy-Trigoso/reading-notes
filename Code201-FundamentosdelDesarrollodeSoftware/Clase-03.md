@@ -150,7 +150,7 @@ Los bucles son útil en javascrip porque repiten una acción varias veces, el c�
 Me gustaría saber más sobre las expresiones con ejemplos y tener una explicaccíon consisa sobre el ejercicio de la pregunta 4 de Aprendo JS.
 
 ## Fuentes de lectura
-+ [No ordenada](https://developer.mozi(lla.org/en-US/docs/Web/HTML/Element/ul)
++ [No Ordenada](https://developer.mozi(lla.org/en-US/docs/Web/HTML/Element/ul)
 + [Ordenada](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 + [The Box Model.](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
 + [Arrays](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays)
