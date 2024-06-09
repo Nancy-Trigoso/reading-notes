@@ -1,5 +1,9 @@
 #  Listas en HTML, Control de flujo en JS, y CSS: Box Model
 
+Las listas en HTML, el control de flujo en JS y el box model en css son fundamentales ya que nos posibilitan una mejor navegación en las páginas web.
+
+Los temas asignados de esta lectura, nos muestra un conocimiento previo a la siguiente clase 03, esto nos permitira participar activamente en clase, se nos hará mucho mas facil entender la clase y tener un conocimiento activo para los siguientes módulos para comprender los temas a más profundidad.
+
 ## Aprende HTML
 
 ### Listas Ordenada y No ordenada 
@@ -101,7 +105,7 @@ Multiplica el valor de X por el valor de Y; almacena el resultado en X.
 5. Asignación de división: 	x /= y
 Divide el valor de X por el valor Y; almacena el resultado en X.
 
-**4.Lee el código a continuación, evalúa la últimaexpresión y explica cuál sería el resultado y por qué.**
+**4.Lee el código a continuación, evalúa la última expresión y explica cuál sería el resultado y por qué.**
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
@@ -125,6 +129,10 @@ Ejemplo: "Camina 8 pasos hacia la derecha" se podría expresar de esta manera co
  Se ejecuta 8 veces, con valores del paso 0 al 7.
 
 Los bucles son útil en javascrip porque repiten una acción varias veces, el código será ligeramente diferente cada vez que dure el bucle, o se ejecutará el mismo código pero con diferentes variables.
+
+## Cosas de las que quiero saber más
+
+Me gustaría saber más sobre las expresiones con ejemplos y tener una explicaccíon consisa sobre el ejercicio de la pregunta 4 de Aprendo JS.
 
 ## Fuentes de lectura
 + [ No ordenada ](https://developer.mozi(lla.org/en-US/docs/Web/HTML/Element/ul)
