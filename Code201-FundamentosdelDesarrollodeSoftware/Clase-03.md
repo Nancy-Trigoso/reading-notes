@@ -111,11 +111,16 @@ Divide el valor de X por el valor Y; almacena el resultado en X.
 
 
 `let a = 10;`
+
 `let b = 'dog';`
+
 `let c = false;`
 
  // evalúa esto
+ 
 `(a + c) + b;`
+
+El resultado que mostraría sería un TypeError porque los datos no es compatibles.
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
