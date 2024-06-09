@@ -66,20 +66,23 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
 **1.Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?**
 
+Había un cuarto llamado "El box model" dónde era el mundo de las cajas, había un jefe, el que protegía a todos, el aclamado "Margin", siempre estaba al pediente de que todo marchara muy bien, que nadie este fuera de su espacio establecido. El cuarto se divida en tres partes. Negra era la primera hija de margin y se encargaba del content box, la segunda azul, se encargaba del padding box y la última Rosada se encargaba del  border box, ellas eran su mano derecha para que todo funcionara muy bien. Un día azul se salió de su lugar establecido y todo se desordenó, su función era de mantener el espacio dentro de cada caja  para separar el contenido de cada caja de los bordes de su marco, su padre se molestó mucho con ella porque tuvieron que volver a ordenar todas cajas y eso les tomo mucho tiempo y le dejo bien claro que no puede salir de su lugar porque todos perderían la vida, asi que margin tuvo que controlar el espacio entre las diferentes cajas y establecer un nuevo diseño estucturado y personalizado para que nadie se vuelva a salir control.
 **2.Enumera y describe las cuatro partes de un box del elementos HTML según el box model.**
 
-1. Content box:
+1. El contenido de la caja o Content box:
 El área donde se muestra el contenido y se cambia de tamaño con width y height.
-2. Padding box:
+2. El relleno de la caja o Padding box:
 Es el espacio en blanco alrededor del contenido; se puede cambiar de tamaño usando la propiedad padding y otras propiedades relacionadas.
-3. Border box:
+3. El borde de la caja o Border box:
 Envuelve el contenido y el de relleno, se puede cambiar su tamaño y estilo utilizando la propiedad border y otras propiedades relacionadas.
-4. Margin box:
+4. El margen de la caja o Margin box:
 Es la capa más externa. Envuelve el contenido, el relleno y el borde como espacio en blanco entre la caja y otros elementos, se puede cambiar su tamaño usando la propiedad margin y otras propiedades relacionadas.
+
 ### Aprende JS
 
-
 **1.¿Qué tipos de datos puedes almacenar en un Array?**
+
+Se puede almacenar varios tipos de datos como: cadenas, números, objetos e incluso otras matrices. También se puede mezclar tipos de datos en una sola matriz.
 **2.¿El array people es un array de JavaScript válido? De ser así, ¿cómo puedo acceder a los valores almacenados? Y si no, ¿por qué?**
 **3.Enumera cinco opreadores abreviados de asignación en javascript y describe lo que hacen.**
 **4.Lee el código a continuación, evalúa la últimaexpresión y explica cuál sería el resultado y por qué.**
