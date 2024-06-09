@@ -91,6 +91,8 @@ Se puede almacenar varios tipos de datos como: cadenas, números, objetos e incl
 
 **2.¿El array people es un array de JavaScript válido? De ser así, ¿cómo puedo acceder a los valores almacenados? Y si no, ¿por qué?**
 
+`const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
+
 Sí, escribimos el nombre de nuestro array, y luego insertar entre corchetes la posición del elemento al que queremos acceder.
 
 **3.Enumera cinco opreadores abreviados de asignación en javascript y describe lo que hacen.**
@@ -106,6 +108,8 @@ Multiplica el valor de X por el valor de Y; almacena el resultado en X.
 Divide el valor de X por el valor Y; almacena el resultado en X.
 
 **4.Lee el código a continuación, evalúa la última expresión y explica cuál sería el resultado y por qué.**
+
+
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
