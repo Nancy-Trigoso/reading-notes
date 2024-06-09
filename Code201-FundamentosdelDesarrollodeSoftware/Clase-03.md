@@ -87,13 +87,42 @@ Se puede almacenar varios tipos de datos como: cadenas, números, objetos e incl
 
 **2.¿El array people es un array de JavaScript válido? De ser así, ¿cómo puedo acceder a los valores almacenados? Y si no, ¿por qué?**
 
+Sí, escribimos el nombre de nuestro array, y luego insertar entre corchetes la posición del elemento al que queremos acceder.
 
 **3.Enumera cinco opreadores abreviados de asignación en javascript y describe lo que hacen.**
+1. Asignación: x = y
+Asigna el valor de Y a X.
+2. Asignación de adición: 	x += y
+Suma el valor de Y al valor de X; almacena el resultado en X.
+3. Asignación de resta: x -= y
+Resta el valor de Y del valor de X; almacena el resultado en X.
+4. Asignación de multiplicación: x *= y
+Multiplica el valor de X por el valor de Y; almacena el resultado en X.
+5. Asignación de división: 	x /= y
+Divide el valor de X por el valor Y; almacena el resultado en X.
+
 **4.Lee el código a continuación, evalúa la últimaexpresión y explica cuál sería el resultado y por qué.**
+
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
+
+
+
 **6.Da un ejempo de por qué un Bucle es últil en JavaScript.**
 
+Los bucles  repiten una acción varias veces, el código será ligeramente diferente cada vez que dure el bucle, o se ejecutará el mismo código pero con diferentes variables.
+
+Ejemplo: "Camina 8 pasos hacia la derecha" se podría expresar de esta manera como un bucle:
+
+for (let step = 0; step < 8; step++) {
+  console.log("Camina un paso hacia la derecha");
+}
+ Se ejecuta 5 veces, con valores del paso 0 al 7.
+
 ## Fuentes de lectura
-+ [ No ordenada ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
++ [ No ordenada ](https://developer.mozi(lla.org/en-US/docs/Web/HTML/Element/ul)
 + [Ordenada](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 + [The Box Model.](https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/The_box_model)
++ [Arrays](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Arrays)
++ [Operadores y Expresiones](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators)
++ [Bucles e iteración](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Loops_and_iteration)
+  
