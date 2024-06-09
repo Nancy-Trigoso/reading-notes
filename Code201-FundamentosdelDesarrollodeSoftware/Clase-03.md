@@ -110,6 +110,12 @@ Divide el valor de X por el valor Y; almacena el resultado en X.
 **4.Lee el código a continuación, evalúa la última expresión y explica cuál sería el resultado y por qué.**
 
 
+`let a = 10;`
+`let b = 'dog';`
+`let c = false;`
+
+ // evalúa esto
+`(a + c) + b;`
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
