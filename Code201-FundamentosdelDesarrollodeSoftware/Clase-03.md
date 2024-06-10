@@ -70,7 +70,7 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 
 **1.Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?**
 
-**Margin:** cambia la posición de un elemento en relación con el diseño de la página es un espacio invisible que hay alrededor de la caja. Se puede controlar todos los márgenes de un elemento a la vez usando la propiedad margin según el lado que desee.
+**Margin:** cambia la posición de un elemento en relación con el diseño de la página, espacio invisible que hay alrededor de la caja. Se puede controlar todos los márgenes de un elemento a la vez usando la propiedad margin según el lado que desee.
 + margin-top: establece el área del margen en la parte superior de un elemento.
 + margin-right: establece el margen derecho de un elemento.
 + margin-bottom: establece el espacio requerido en la parte inferior de un elemento.
