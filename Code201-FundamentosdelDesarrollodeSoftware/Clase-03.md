@@ -69,8 +69,17 @@ Ejemplo: Los alumnos del aula de 3B son : Ana, Juan, Luz, Pedro, etc.
 ### Aprende CSS
 
 **1.Describe las propiedades de margin y padding en CSS como si fueran los personajes de una historia. ¿Cuál es su rol en la historia: “El Box Model”?**
+**Margin:** cambia la posición de un elemento en relación con el diseño de la página es un espacio invisible que hay alrededor de la caja. Se puede controlar todos los márgenes de un elemento a la vez usando la propiedad margin según el lado que desee.
++ margin-top: establece el área del margen en la parte superior de un elemento.
++ margin-right: establece el margen derecho de un elemento.
++ margin-bottom: establece el espacio requerido en la parte inferior de un elemento.
++ margin-left: establece el área de margen en el lado izquierdo de un elemento.
 
-Había un cuarto llamado "El box model" dónde era el mundo de las cajas, había un jefe, el que protegía a todos, el aclamado "Margin", siempre estaba al pediente de que todo marchara muy bien, que nadie este fuera de su espacio establecido. El cuarto se divida en tres partes. Negra era la primera hija de margin y se encargaba del content box, la segunda azul, se encargaba del padding box y la última Rosada se encargaba del  border box, ellas eran su mano derecha para que todo funcionara muy bien. Un día azul se salió de su lugar establecido y todo se desordenó, su función era de mantener el espacio dentro de cada caja  para separar el contenido de cada caja de los bordes de su marco, su padre se molestó mucho con ella porque tuvieron que volver a ordenar todas cajas y eso les tomo mucho tiempo y le dejo bien claro que no puede salir de su lugar porque todos perderían la vida, asi que margin tuvo que controlar el espacio entre las diferentes cajas y establecer un nuevo diseño estucturado y personalizado para que nadie se vuelva a salir control.
+**Padding:** se encuentra entre el borde y el área de contenido, no puede tomar valores negativos, por lo que el valor debe ser 0 o positivo. Se usa para mantener el contenido alejado del borde.
++ padding-top: establece el espacio de relleno requerido en la parte superior del elemento.
++ padding-right: establece el ancho del área de relleno a la derecha de un elemento.
++ padding-bottom: establece el espacio de relleno requerido en la parte inferior del elemento.
++ padding-left: establece el espacio de relleno requerido en la parte superior del elemento. 
 
 **2.Enumera y describe las cuatro partes de un box del elementos HTML según el box model.**
 
@@ -120,7 +129,7 @@ Divide el valor de X por el valor Y; almacena el resultado en X.
  
 `(a + c) + b;`
 
-El resultado que mostraría sería un TypeError porque los datos no es compatibles.
+El resultado que mostraría sería 10dog.
 
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
