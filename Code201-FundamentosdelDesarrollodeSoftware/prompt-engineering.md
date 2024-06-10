@@ -11,7 +11,7 @@ La ingeniería de avisos es una disciplina relativamente nueva para desarrollar 
 
 ## Tarea
 
-1.Confirma que tienes una cuenta activa de chatbot
+**1.Confirma que tienes una cuenta activa de chatbot.**
 
 + OpenAI
 
@@ -21,7 +21,7 @@ La ingeniería de avisos es una disciplina relativamente nueva para desarrollar 
 
 [Mi cuenta personal de Google Bard](https://gemini.google.com/app)
 
-2.Pídele al chatbot que explique un tema o algo relacionado con tu experiencia de trabajo previa y mira qué tan acertada es.
+**2.Pídele al chatbot que explique un tema o algo relacionado con tu experiencia de trabajo previa y mira qué tan acertada es.**
 
 + OpenAI
 
@@ -29,5 +29,5 @@ La ingeniería de avisos es una disciplina relativamente nueva para desarrollar 
   
 + Google Bard
   
-  [Output: Enseñame a como preparar arroz a la chiclayana](https://g.co/gemini/share/3de2a57a113b)
+[Output: Enseñame a como preparar arroz a la chiclayana](https://g.co/gemini/share/3de2a57a113b)
 
