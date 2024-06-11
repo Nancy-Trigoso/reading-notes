@@ -132,6 +132,8 @@ Divide el valor de X por el valor Y; almacena el resultado en X.
 
 El resultado que mostraría sería 10dog.
 
+Por qué  cuando son números, conecta el número + el string, false es un bool y pasaría a ser 0 por lo cuál muestra  ese resultado. 
+
 **5.Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript.**
 
 Ejemplo:
