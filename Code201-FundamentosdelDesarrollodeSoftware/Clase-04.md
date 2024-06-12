@@ -6,8 +6,11 @@
 
 **1.Para crear un enlace básico, ¿en qué elemento colocamos el texto u otro contenido?**
 
+En el elemento ancla <a>.
 
 **2.¿Qué información contiene el atributo href?**
+
+Contiene la dirección web hacia dónde queremos que apunte el enlace.
 
 
 **3.¿Cuáles son algunas de las formas en las que podemos asegurarnos de que los enlaces a nuestras páginas sean accesibles a todos los lectores?**
