@@ -15,9 +15,10 @@ Contiene la dirección web hacia dónde queremos que apunte el enlace.
 
 **3.¿Cuáles son algunas de las formas en las que podemos asegurarnos de que los enlaces a nuestras páginas sean accesibles a todos los lectores?**
 
-+ Redacción clara del enlace
++ Redacción clara del enlace.
 + Utiliza enlaces relativos siempre que sea posible.
-+ 
++ Indica claramente los recursos en HTML.
++ Utiliza el atributo downloadal enlazar una descarga.
 
 
 ## CSS Layout.
