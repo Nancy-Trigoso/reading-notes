@@ -67,6 +67,7 @@ La Invocación de función ejecuta el bloque de código definido dentro de esa f
 
 **2.¿Cuál es la diferencia entre un parameter y un argument?**
 
+
 `function saludar(nombre, edad) {
     
     console.log("Hola, " + nombre + ". Tienes " + edad + " años.");
