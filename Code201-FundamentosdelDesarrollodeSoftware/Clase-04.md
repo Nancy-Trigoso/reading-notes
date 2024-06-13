@@ -61,10 +61,9 @@ La Invocación de función ejecuta el bloque de código definido dentro de esa f
 }`
 `saludar("Juan", 30);`
 
-+ Nombre y edad son parámetros de la función saludar.
++ Nombre y edad son parámetros de la función saludar. Variables que se definen en la declaración de la función.
 
-+ "Juan" y 30 son los argumentos pasados a la función saludar durante su invocación.
-
++ "Juan" y 30 son los argumentos pasados a la función saludar durante su invocación. Valores concretos que se pasan a la función cuando se invoca.
 
 
 ## Miscelánea.
