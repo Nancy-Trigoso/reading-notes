@@ -72,7 +72,7 @@ La Invocación de función ejecuta el bloque de código definido dentro de esa f
 
 `function saludar(nombre, edad) {`
     
-    `console.log("Hola, " + nombre + ". Tienes " + edad + " años.");`
+     console.log("Hola, " + nombre + ". Tienes " + edad + " años.");
 
 `}`
 
