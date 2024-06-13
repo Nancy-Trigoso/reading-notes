@@ -48,6 +48,11 @@ Se refiere a la forma en que se presentan los elementos de la página web si no 
 
 **1.Describe la diferencia entre una declaración de función y una invocación de función.**
 
+Diferencia:
+
+Declaración de función crea una nueva función con el nombre dado, son elevadas al inicio de su ámbito, por lo que puedes llamar a la función antes de su declaración en el código y solo establece lo que la función hará cuando se invoque.
+
+La Invocación de función ejecuta el bloque de código definido dentro de esa función, los argumentos pasados a la función reemplazan los parámetros definidos en el la declaración de la función y puede devolver un valor (si la función usa return) o simplemente ejecutar su bloque de código.
 
 **2.¿Cuál es la diferencia entre un parameter y un argument?**
 
