@@ -8,7 +8,7 @@
 
 En el elemento ancla <a>.
 
- <a href="https://www.mozilla.org/es-ES/">la página de inicio de Mozilla</a>.
+ `<a href="https://www.mozilla.org/es-ES/">la página de inicio de Mozilla</a>.`
 
 **2.¿Qué información contiene el atributo href?**
 
