@@ -27,6 +27,8 @@ Contiene la dirección web hacia dónde queremos que apunte el enlace.
 
 **1.¿A qué se refiere con “normal flow”?**
 
+Se refiere a la forma en que se presentan los elementos de la página web si no cambias su comparación.
+
 
 **2.¿Cuáles son algunas de las diferencias entre los elementos block-level e inline?**
 
