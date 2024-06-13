@@ -32,15 +32,26 @@ Se refiere a la forma en que se presentan los elementos de la página web si no 
 
 **2.¿Cuáles son algunas de las diferencias entre los elementos block-level e inline?**
 
++ Los elementos block-level respetan todas las propiedades del modelo de caja (width, height, margin, padding, border, background, float, clear, overflow). Esto significa que puedes ajustar su tamaño y espacio de manera precisa.
++ Los elementos block-level ocupan todo el ancho disponible de su contenedor y siempre comienzan en una nueva línea.
++ Los elementos inline solo respetan las propiedades horizontales del modelo de caja (padding-left, padding-right, margin-left, margin-right, border-left, border-right).
++ Ls elementos inline no inician en una nueva línea y solo ocupan el ancho necesario para su contenido. Esto permite que varios elementos inline estén en la misma línea.
++ En los elementos inlne el tamaño se determina por el contenido.
 
 **3.El ___ positioning es la posición por defecto de todos los elementos en html.**
 
++ static positioning
 
 **4.Nombra algunas ventajas de utilizar absolute positioning en un elemento.**
 
-
++ Permite colocar un elemento en una ubicación exacta dentro de su contenedor relativo.
++ Facilita la creación de efectos visuales como menús desplegables, modales, pop-ups y tooltips.
++ No afectan ni son afectados por la disposición de otros elementos en el flujo.
++ Diseño adaptable y preciso.
+  
 **5.¿Cuál es una diferencia clave entre fixed positioning y absolute positioning?**
 
+El posicionamiento absoluto fija un elemento en su lugar en relación con su ancestro posicionado más cercano (el bloque contenedor inicial si no lo hay), el posicionamiento fijo generalmente fija un elemento en lugar en relación con la parte visible de la ventana gráfica. 
 
 ## Aprende  JS.
 
@@ -72,9 +83,13 @@ La Invocación de función ejecuta el bloque de código definido dentro de esa f
 
 **1.Escoge 2 beneficios del pair programming y reflexiona acereca de cómo estos beneficios te pueden ayudar en tu carrera como programador.**
 
++ Backseat Navigator: Como principiante en programación este beneficio me ayudaría mucho ya que yo podría ir como conductor y un experto como el navegante, asi me podría ayudar a aprender prácticando.
++ Pomodoro: Este beneficio me ayudaría a experimentar la posición de los dos lados, támbien tenemos unos plazos de descanzo que eso nos ayudaría a que no estemos estrezados y a refrescar nuestra mente para integrar nuevas ideas.
 
 ## Cosas de las que quiero saber más.
 
++ Me gustaría saber más sobre css layout.
++ Experimentar los beneficios del pair programming.
 
 ## Fuentes:
 + [Crea Hipervínculos](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
