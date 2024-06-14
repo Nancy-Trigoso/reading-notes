@@ -43,7 +43,10 @@ Una imagen git  tiene buenas animaciones cortas y gráficos simples, pero limita
 A diferencia de una imagen svg son claros y nítidos a cualquier tamaño, generalmente no son animados pero son muy versátiles y ligeros y son archivos pequeños en tamaño.
 
 * Imagén gif.
-  
+  ![Esta es una imagen de animación]([https://ejemplo.com/imagen.jpg](https://lacriaturacreativa.com/wp-content/uploads/2016/09/eyedesyn-01.gif))
+
+* Imagén svg.
+  ![Esta es una imagen de svg](https://viavector.eu/wp-content/uploads/2022/02/que-es-un-archivo-svg.jpg)
 
 
 **5. ¿Qué tipo de imagen usarías para mostrar una captura de pantalla en tu página web y por qué?**
