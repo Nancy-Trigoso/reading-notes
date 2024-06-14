@@ -102,11 +102,13 @@ La diferencia es que:
 
 **5. Describe dos formas de añadir espaciado alrededor de los caracteres mostrados en un elemento h1.**
 
-
++ letter-spacing: establece el comportamiento del espaciado horizontal entre caracteres de texto.
++  word-spacing: establece la longitud del espacio entre palabras y entre etiquetas.
 
 ## Cosas de las que quiero saber más.
 
-
++ Ejemplos consisos de formatos de imagenes.
++ Más estilos de CSS.
 
 ## Fuentes:
 
