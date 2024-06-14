@@ -20,25 +20,17 @@ Podemos mejorarla añadiendo:
 
 **3. Da un ejemplo en el que el elemento figure sería útil en un documento HTML.**
 
-`<figure>`
+``<figure>
 
-  `<img`
-  
-    src="images/flores.jpg"
-    
-    alt="Rosas amarillas"
-    
-    width="400"
-    
-    height="341" />`
-    
-  `<figcaption>`
-  
-    Flores amarillas se entregan l 21 de marzo a la persona que te gusta.
-    
-  `</figcaption>`
-  
-`</figure>`
+  <img
+      src="images/flores.jpg"
+      alt="Rosas amarillas"
+      width="400"
+      height="341" />
+    <figcaption>
+      Flores amarillas se entregan l 21 de marzo a la persona que te gusta.
+    </figcaption>
+  </figure>``
 
 El elemento figure proporciona un contenedor semántico para las figuras y vincular claramente la figura con el pie.
 Esta encapsulando el contenido independiente de la imágen que es referenciado en el contenido principal del documento.
@@ -47,7 +39,11 @@ El elemento <figcaption> dice al navegador, que el texto que contiene describe l
 
 **4. Describe la diferencia entre una imágen gif y una imágen svg, imagina que se lo estás explicando a una persona mayor de tu comunidad.**
 
-Una imagen git 
+Una imagen git  tiene buenas animaciones cortas y gráficos simples, pero limitadas en calidad y pueden ser grandes en tamaño.
+A diferencia de una imagen svg son claros y nítidos a cualquier tamaño, generalmente no son animados pero son muy versátiles y ligeros y son archivos pequeños en tamaño.
+
+* Imagén gif.
+  
 
 
 **5. ¿Qué tipo de imagen usarías para mostrar una captura de pantalla en tu página web y por qué?**
