@@ -45,7 +45,7 @@ A diferencia de una imagen svg son claros y nítidos a cualquier tamaño, genera
 * Imagén gif.
   
   
-  ![Esta es una imagen de animación](https://lacriaturacreativa.com/wp-content/uploads/2016/09/eyedesyn-01.gif)
+  ![Esta es una imagen de animación](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXl5dnJ3OWNyaDh2MjhkczljbWVzaWNoZzMzejZmaXRpajZjMmU1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TZ2oBnEvY9iMgJWuRS/giphy.webp)
 
   
 
