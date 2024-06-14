@@ -20,8 +20,7 @@ Podemos mejorarla añadiendo:
 
 **3. Da un ejemplo en el que el elemento figure sería útil en un documento HTML.**
 
-``<figure>
-
+```<figure>
   <img
       src="images/flores.jpg"
       alt="Rosas amarillas"
@@ -30,7 +29,8 @@ Podemos mejorarla añadiendo:
     <figcaption>
       Flores amarillas se entregan l 21 de marzo a la persona que te gusta.
     </figcaption>
-  </figure>``
+  </figure>
+```
 
 El elemento figure proporciona un contenedor semántico para las figuras y vincular claramente la figura con el pie.
 Esta encapsulando el contenido independiente de la imágen que es referenciado en el contenido principal del documento.
