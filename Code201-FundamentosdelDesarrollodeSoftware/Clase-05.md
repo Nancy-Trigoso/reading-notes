@@ -7,20 +7,44 @@ A medida que vamos avanzando vamos utilizando estos temos que nos ayudarán a en
 
 **1. ¿Cuál es un caso práctico del atributo alt en una página web?**
 
+Cuando colocamos mal el nombre del archivo o su ruta, el navegador nos mostrará el texto alternativo que escribimos y asi nos daremos cuenta del error. 
 
 **2. ¿Cómo puedes mejorar la accesibilidad de las imágenes en un documento HTML?**
 
 
+Podemos mejorarla añadiendo:
++ Texto alternativo `<alt>`
++ Anchura y altura
++ Título de imágenes.
+
 
 **3. Da un ejemplo en el que el elemento figure sería útil en un documento HTML.**
 
+`<figure>`
+  `<img
+    src="images/flores.jpg"
+    alt="Rosas amarillas"
+    width="400"
+    height="341" />`
+    
+  `<figcaption>`
+    `Flores amarillas se entregan l 21 de marzo a la persona que te gusta.`  
+  `</figcaption>`
+`</figure>`
+
+El elemento figure proporciona un contenedor semántico para las figuras y vincular claramente la figura con el pie.
+Esta encapsulando el contenido independiente de la imágen que es referenciado en el contenido principal del documento.
+El elemento <figcaption> dice al navegador, que el texto que contiene describe la imagen que está contenida en el elemento <figure>.
 
 
 **4. Describe la diferencia entre una imágen gif y una imágen svg, imagina que se lo estás explicando a una persona mayor de tu comunidad.**
 
+Una imagen git 
 
 
 **5. ¿Qué tipo de imagen usarías para mostrar una captura de pantalla en tu página web y por qué?**
+
+Utilizaría un PNG, por que utiliza compresión sin pérdidas, admite altas profundidades de color y admite transparencia alfa total.
 
 
 ## Aprende CSS.
