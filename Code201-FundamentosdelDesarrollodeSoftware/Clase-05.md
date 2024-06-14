@@ -22,7 +22,7 @@ Podemos mejorarla añadiendo:
 
 `<figure>`
 
-  `<img 
+  `<img`
   
     src="images/flores.jpg"
     
