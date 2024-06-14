@@ -75,17 +75,33 @@ Utilizaría un PNG, por que utiliza compresión sin pérdidas, admite altas prof
 
 ![Imagen de color y backgroung](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeF1Vnwr4XkoioirM26dZ_BOR0SUuOYuUTTQ&s)
 
+
 **2. Tu amigo te pide que le des un retoque a su blog. ¿Cómo utilizarías color para darle carácter a su blog?**
 
+Primero agregaría una clase a los elementos nesesarios de html. Luego añadíria estilos con las propiedades background-color, color, border, padding, margin, text-align, display, text-decoration,  etc. En cada clase de los elementos según correponda.
 
 **3. ¿Qué debes tener en cuenta al escoger tipos de letra para un documento HTML?**
+
++ Familia de tipos de letras
++ Color
++ Tipos de letra seguros para la web
++ Fuentes predeterminadas
++ Listas de tipos de letra
++ Tamaño de la letra
++ Estilo y cuerpo del tipo de letra, efectos y decoración del texto
++ Textos sombreados
++ Sombras múltiples
 
 
 **4. ¿Cuál es la relación entre font-size, font-weight, y font-style con los elementos de texto en HTML?**
 
-
+La diferencia es que:
++  font-size se usa para definir el tamaño de la letra.
++  font-weight se usa para definir el peso de la letra.
++  font-style define el aspecto de una familia tipográfica. 
 
 **5. Describe dos formas de añadir espaciado alrededor de los caracteres mostrados en un elemento h1.**
+
 
 
 ## Cosas de las que quiero saber más.
