@@ -63,6 +63,16 @@ Utilizaría un PNG, por que utiliza compresión sin pérdidas, admite altas prof
 
 **1. Describe la diferencia entre un color de primer plano y un color de fondo de un elemento HTML, imagina que estás hablando con una personas sin conocimientos técnicos.**
 
++ **Color de Primer Plano:** El color del contenido principal de un elemento HTML, se usa la propiedad `color`.
++ **Color de Fondo:**  El color detrás del contenido principal, se usa la propiedad `background-color`.
+
+  **Ejemplo:**
+  ```<div style="color: rojo; background-color: amarillo;">
+  Este mensaje es de color rojo sobre fondo amarillo.
+</div>
+```
+
+![Imagen de color y backgroung](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeF1Vnwr4XkoioirM26dZ_BOR0SUuOYuUTTQ&s)
 
 **2. Tu amigo te pide que le des un retoque a su blog. ¿Cómo utilizarías color para darle carácter a su blog?**
 
