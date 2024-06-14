@@ -34,7 +34,7 @@ Podemos mejorarla añadiendo:
     
   `<figcaption>`
   
-    `Flores amarillas se entregan l 21 de marzo a la persona que te gusta.`  
+    Flores amarillas se entregan l 21 de marzo a la persona que te gusta.
     
   `</figcaption>`
   
