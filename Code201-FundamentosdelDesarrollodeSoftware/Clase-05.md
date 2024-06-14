@@ -22,7 +22,9 @@ Podemos mejorarla añadiendo:
 
 `<figure>`
 
-  `<img src="images/flores.jpg"
+  `<img 
+  
+    src="images/flores.jpg"
     
     alt="Rosas amarillas"
     
