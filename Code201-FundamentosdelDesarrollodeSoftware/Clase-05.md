@@ -68,10 +68,10 @@ Utilizaría un PNG, por que utiliza compresión sin pérdidas, admite altas prof
 
   **Ejemplo:**
   
-  ```<div style="color: rojo; background-color: amarillo;">
+        ```<div style="color: rojo; background-color: amarillo;">
           Este mensaje es de color rojo sobre fondo amarillo.
-    </div>
-  ```
+           </div>
+              ```
 
 ![Imagen de color y backgroung](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeF1Vnwr4XkoioirM26dZ_BOR0SUuOYuUTTQ&s)
 
