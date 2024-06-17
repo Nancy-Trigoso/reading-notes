@@ -13,7 +13,10 @@ Los objetos son como las cajas que organizan información y permiten que hagamos
 
 **2. ¿Cuáles son algunas de las ventajas de crear objetos literales?**
 
-
++ Disminuyen la cantidad de código repetido.
++ Permiten definir propiedades con una amplia variedad de tipos de datos, incluyendo cadenas de texto, números, booleanos, funciones u otros objetos.
++ Permitecrear objetos de forma rápida y sencilla.
++ Tiene una sintaxis simple.
 
 **3. ¿En qué se diferencian los objetos de los arrays?**
 
@@ -21,6 +24,8 @@ Los objetos son como las cajas que organizan información y permiten que hagamos
 
 **4. Da un ejemplo acerca de los momentos en los que necesitarías utilizar bracket notation para acceder a la propiedad de un objeto en vez de dot notation.**
 
+ Cuando necesitas registrar el nombre y la edad de una persona.     
+      
       person["age"];
       person["name"]["first"];
 
@@ -29,9 +34,20 @@ Los objetos son como las cajas que organizan información y permiten que hagamos
            age: 32,
       };
 
-
-
 **5. Evalúa el siguiente código. ¿A qué se refiere el término this y cuál es la ventaja de utilizarlo?**
+
+       const dog = {
+           name: 'Spot',
+           age: 2,
+           color: 'white with black spots',
+           humanAge: function (){
+          console.log(`${this.name} is ${this.age*7} in human years`);
+        }
+      }
+
+This se refiere al objeto actual en el que se está escribiendo el código, por lo que en este caso this es equivalente a person. 
+
+La ventaja de usar this es que si crea más de un objeto literal te  permite utilizar la misma definición de método para cada objeto que cree.
 
 ## Introducción al DOM.
 **1. ¿Qué es el DOM?**
