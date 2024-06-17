@@ -59,12 +59,16 @@ La ventaja de usar this es que si crea más de un objeto literal te  permite uti
 
 **2. ¿Cuál es la diferencia entre valores primitivos y referencias a objetos en JavaScript?**
 
-## Cosas de las que quiero saber más
+## Cosas de las que quiero saber más.
+
+
 
 ## Fuentes:
 
 + [Conceptos básicos de los objetos JavaScript](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics)
-+ 
++ [Introducción al DOM](https://developer.mozilla.org/es/docs/Web/API/Document_Object_Model/Introduction)
++ [¿Por qué parece tan difícil programar?](https://www.uv.es/vimupi/programar.html)
++ [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
  
 
 
