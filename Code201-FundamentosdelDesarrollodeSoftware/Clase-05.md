@@ -34,7 +34,7 @@ Podemos mejorarla añadiendo:
 
 El elemento figure proporciona un contenedor semántico para las figuras y vincular claramente la figura con el pie.
 Esta encapsulando el contenido independiente de la imágen que es referenciado en el contenido principal del documento.
-El elemento <figcaption> dice al navegador, que el texto que contiene describe la imagen que está contenida en el elemento <figure>.
+El elemento `<figcaption>` dice al navegador, que el texto que contiene describe la imagen que está contenida en el elemento <figure>.
 
 
 **4. Describe la diferencia entre una imágen gif y una imágen svg, imagina que se lo estás explicando a una persona mayor de tu comunidad.**
