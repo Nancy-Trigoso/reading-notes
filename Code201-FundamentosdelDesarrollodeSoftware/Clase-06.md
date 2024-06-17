@@ -21,13 +21,13 @@ Los objetos son como las cajas que organizan información y permiten que hagamos
 
 **4. Da un ejemplo acerca de los momentos en los que necesitarías utilizar bracket notation para acceder a la propiedad de un objeto en vez de dot notation.**
 
-````person["age"];
-````person["name"]["first"];
+      person["age"];
+      person["name"]["first"];
 
-````const person = {
-  name: ["Bob", "Smith"],
-  age: 32,
-````};
+      const person = {
+           name: ["Bob", "Smith"],
+           age: 32,
+      };
 
 
 
