@@ -50,18 +50,36 @@ This se refiere al objeto actual en el que se está escribiendo el código, por 
 La ventaja de usar this es que si crea más de un objeto literal te  permite utilizar la misma definición de método para cada objeto que cree.
 
 ## Introducción al DOM.
+
 **1. ¿Qué es el DOM?**
+
+Modelo de objeto de documento (DOM). Es una interfaz de programación para los documentos HTML y XML. 
+Es una representación orientada al objeto de la página web y puede ser modificado con un lenguaje de script como JavaScript.
 
 **2. Describe brevemente la relación entre el DOM y JavaScript.**
 
+ DOM proporciona la estructura y JavaScript las herramientas para interactuar y modificar esa estructura en tiempo real.
+
 ## Marcadores y Repaso.
+
 **1. ¿Por qué parece tan difícil programar?**
 
+Por que aveces estamos tan concentrados en el lenguaje de programación que se nos olvida de seguir los 4 pasos fundamentales:
+
++ Entender bien el problema
++ Diseñar un método para resolverlo (algoritmo)
++ Escribir el programa en un lenguaje concreto
++ Depuración y pruebas.
+
+  Avece nos parece muy difícil realizar estos pasos que intentamos saltearnos los 2 primeros pasos y luego lo intentemos compilar una y otra vez y el programa no funione, eso nos terminará frustando y hará que programgar sea difícil.
+   
 **2. ¿Cuál es la diferencia entre valores primitivos y referencias a objetos en JavaScript?**
+
+Los valores primitivos no se pueden cambiar (inmutables ), pero las referencias a objetos se pueden cambiar(mutables).
 
 ## Cosas de las que quiero saber más.
 
-
++ Ejemplos de valores primitivos y referencias a obajetos.
 
 ## Fuentes:
 
