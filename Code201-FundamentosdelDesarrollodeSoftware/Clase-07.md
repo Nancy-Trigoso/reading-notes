@@ -30,6 +30,6 @@
 + [Introducción a los Constructores](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 + [Herencia prototípica](https://es.javascript.info/prototype-inheritance)
 + [Prototipos nativos](https://es.javascript.info/native-prototypes)
-+[Funciones avanzadas de las tablas HTML y accesibilidad](https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Advanced)
++ [Funciones avanzadas de las tablas HTML y accesibilidad](https://developer.mozilla.org/es/docs/Learn/HTML/Tables/Advanced)
 
 
