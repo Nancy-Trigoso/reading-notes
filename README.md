@@ -22,7 +22,7 @@ En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 10
    * [Clase-04: Enlaces en HTML, Funciones en JS, e Introducción al CSS: Layout.](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-04.html)
    * [Clase-05: Imágenes, Color, Texto.](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-05.html)
    * [Clase-06: Descripción del problema, Objetos y el DOM](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-06.html)
-   * [Read 07:](https://nancy-trigoso.github.io/reading-notes/201/Read07.html)
+   * [Clase-07: Programación orientada a objetos, Tablas en HTML](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-07.html)
    * [Read 08:](https://nancy-trigoso.github.io/reading-notes/201/Read08.html)
    * [Read 09:](https://nancy-trigoso.github.io/reading-notes/201/Read09.html)
    * [Read 10:](https://nancy-trigoso.github.io/reading-notes/201/Read10.html)
