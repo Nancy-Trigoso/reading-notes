@@ -9,11 +9,45 @@
     </head>
     
     <body>
+        <header>
+            <nav class="menu">
+                <ul>
+                    <li>
+                        <!--El href con un url interna y interna-->
+                        <!--externo
+                        https://youtube.com/video/
+                        https://facebook.com
+                        -->
+                        <!--interna
+                        cuando hacemos click en una url de nuestra pagina y se va a la seccion de nuestra pagina que indica.
+                        se requiera que tenga un id.
+                        -->
+
+                        
+                        <a href="">Inicio</a>
+                    </li>
+                    <li>
+                        <a href="#experiencia-laboral"> Mi experiencia</a>
+                    </li>
+                    <li>
+                        <a href="">Mis proyectos</a>
+                    </li>
+                    <li>
+                        <a href="">Mis proyectos</a>
+                    </li>
+                    <li>
+                        <!--Como hacemos para poder abrir este enlace en otra ventan? utilizamos la propiedad target.-->
+                        <a href="https://www.linkedin.com/in/nancy-trigoso/" target="_blank">Linkedin</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
         <main>
-            <div class="banner">
+            <section class="banner">
                 <h1 class="title">Nancy Trigoso Vega</h1> 
-                <h2 class="secod-title"><samp class="text-blue">Administradora</samp> de Redes</h2>
-            </div>
+                <h2 class="secod-title">
+                <samp class="text-blue">Administradora</samp> de Redes</h2>
+            </section>
 
             <div class="resumen">
                 <h3>Resumen</h3>
@@ -24,37 +58,91 @@
                 </p> 
             </div>
             <h3>Educación</h3>
-            <ul>
+            <ul class="educacion">
                 <li>I.E 1221 María Parado de Bellido</li>
                 <li>I.E.S.P "Ramiro Prialé Prialé"</li>
                 <li>Centro de Idiomas Ciune</li>
                 <li>Instituto SISE</li>
             </ul>
-            <h3>Experiencia Laboral</h3>
-            <div>
-                <div>
-                    <h6>HOSPITAL JOSE AUGURTO TELLO-CHOSICA</h6>
-                    <p>Enero 2019 – Marzo 2019</p>
-                    <p>Ayudante en el área de Estadística e informática.</p>
+            <section class="experience-container" id="experiencia-laboral">
+            <h3 class="sub-title">Experiencia Laboral</h3>
+            <section class="experience-container">
+                <div class="work-container">
+                    <div>
+                        <img
+                        src="./images/vml.jpeg"
+                        alt="Logo de VML"
+                        width="50"
+                        height="50"
+                      />
+                    </div>
+                    <div>
+                    <h6 class="work-company">HOSPITAL JOSE AUGURTO TELLO-CHOSICA</h6>
+                    <p class="work-date">Enero 2019 – Marzo 2019</p>
+                    <p class="work-title">Ayudante en el área de Estadística e informática.</p>
+                    </div>
                 </div>
-                <div>
-                    <h6>HIELOS ROSITA S.A.C</h6>
-                    <p>Enero 2017 - Noviembre 2017</p>
-                    <p>Atención al cliente, registrar los datos correspondientes.</p>
+                <div class="work-container">
+                    <div>
+                        <img
+                            src="./images/dog-houser.png"
+                                alt="Logo de Dog Houser"
+                            width="50"
+                            height="50"
+                        />
+                    </div>
+                    <div>
+                    <h6 class="work-company">HIELOS ROSITA S.A.C</h6>
+                    <p class="work-date">Enero 2017 - Noviembre 2017</p>
+                    <p class="work-title">Atención al cliente, registrar los datos correspondientes.</p>
+                    </div>
                 </div>
+                <div class="work-container">
+                    <div>
+                      <img
+                        src="./images/guvery.png"
+                        width="50"
+                        height="50"
+                        alt="Logo de Guvery"
+                      />
+                    </div>
                 <div>
-                    <h6>PIÑATERIA KIKE´S S.A.C</h6>
-                    <p>Enero 2016 – Julio 2016</p>
-                    <p>Recepcionar y atender a los clientes, registrar el ingreso correspondiente de dinero y la salida de productos.</p>
+                    <h6 class="work-company">PIÑATERIA KIKE´S S.A.C</h6>
+                    <p class="work-date">Enero 2016 – Julio 2016</p>
+                    <p class="work-title">Recepcionar y atender a los clientes, registrar el ingreso correspondiente de dinero y la salida de productos.</p>
                 </div>
+                </div>
+                <div class="work-container">
+                    <div>
+                      <img
+                        src="./images/guvery.png"
+                        width="50"
+                        height="50"
+                        alt="Logo de Guvery"
+                      />
+                    </div>
                 <div>
-                    <h6>RESTAURANTE PIZZERIA SABOR PIZZA S.A.C</h6>
-                    <p>Marzo 2022 – Presente</p>
-                    <p>Preparación de comida rápida, tacos, hambuerguesas,etc.</p>
+                    <h6 class="work-company">RESTAURANTE PIZZERIA SABOR PIZZA S.A.C</h6>
+                    <p class="work-date">Marzo 2022 – Presente</p>
+                    <p class="work-title">Preparación de comida rápida, tacos, hambuerguesas,etc.</p>
                 </div>
+                
 
-            </div>
+            </section>
     </main>
-   <script src="./js/app.js"></script> 
+
+    <section class="section">
+        <p>1</p>
+        <p>2</p>
+        <p>3</p>
+        <p>4</p>
+        <p>5</p>
+        <p>6</p>
+        <p>7</p>
+        <p>8</p>
+        <p>9</p>
+        <p>10</p>
+      </section>
+   <script src="./js/repaso-funtion.js"></script> 
 </body>
 </html>
