@@ -10,7 +10,7 @@
 
 **2. Enumera y describe 3 diferentes elementos semánticos HTML utilizados en un `<table>`.**
 
-## Introducción a los Constructores.
+## Introducción a los Constructores
 
 **1. Qué es un constructor y cuáles son las ventajas de utilizarlo?**
 
@@ -18,12 +18,12 @@
 
 **3. Explica los prototipos y las herencias por medio de una analogía sobre tu experiencia laboral previa**
 
-## Marcadores y Repaso.
+## Marcadores y Repaso
 
 **Funciones avanzadas de las tablas HTML y accesibilidad**
 
 ## Cosas de las que quiero saber más.
-###
+
 
 ## Fuentes:
 + [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
