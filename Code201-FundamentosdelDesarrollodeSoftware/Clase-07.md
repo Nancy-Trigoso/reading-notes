@@ -26,13 +26,34 @@ Porque  reducen la accesibilidad para los usuarios con discapacidad visual, gene
 
 Es un metodo especial para crear e inicializar un objeto creado a partir de una clase. 
 
+**Ventajas:**
+
++  Se inicialice automáticamente
++  Tiene toda la compatibilidad con muchas aplicaciones
++  Permite la creación de objetos de diferentes maneras, proporcionando flexibilidad para inicializar objetos
++  Permiten ocultar los detalles de la creación e inicialización de objetos.
+
 **2. ¿Cómo es que el término this se diferencia cuando se utiliza en un objeto literal y cuando se utiliza en un constructor?**
 
+El término `<this>` se refiere al propio objeto literal en el que se encuentra definido el método y dentro de un constructor se refiere al propio objeto literal en el que se encuentra definido el método.
+
 **3. Explica los prototipos y las herencias por medio de una analogía sobre tu experiencia laboral previa**
+
+Trabajaba en el hospital del sis de Chosica en el área de Estadística e Informática, cada trabajador tenía diferentes roles, como asistentes, inginieros, programadores, etc. Cada rol tiene sus propias responsabilidades, pero también comparten algunas características comunes.
+
+**Prototipos:** son las descripciones de roles en un manual de empleados. Este manual define qué habilidades y responsabilidades tiene cada rol, como nombre, salario, rol de trabajo, etc.
+
+**Herencia:**  permite crear roles específicos (como Desarrollador) que heredan las propiedades y métodos del prototipo básico (Empleado) y pueden añadir o modificar características específicas.
 
 ## Marcadores y Repaso
 
 **Funciones avanzadas de las tablas HTML y accesibilidad**
+
+Se utilizan características adicionales para mejorar su funcionalidad y accesibilidad para todos.
+* Añadir un subtítulo a tu tabla con `<caption>`: Puedes dar un título a tu tabla colocándolo dentro de un elemento `<caption>` y anidándolo dentro del elemento `<table>`.
+* Añadir estructura con `<thead>`, `<tfoot>` y `<tbody>`: Estos elementos agrupan las secciones de la tabla como columnas y filas.
+* Anidar tablas: anidar una tabla dentro de otra, siempre que incluyas la estructura completa, incluido el elemento `<table>`. 
+* Tablas para usuarios con discapacidad visual: Las personas con discapacidad visual a menudo usan un lector de pantalla que les lee la información de las páginas web. Esto no resulta un problema cuando lees un texto sin formato, pero interpretar una tabla puede ser un gran desafío para una persona ciega. Sin embargo, con el marcado adecuado podemos reemplazar las asociaciones visuales por otras asociaciones de tipo programático.
 
 ## Cosas de las que quiero saber más.
 
