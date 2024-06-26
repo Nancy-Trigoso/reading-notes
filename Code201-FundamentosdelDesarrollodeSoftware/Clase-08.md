@@ -22,13 +22,25 @@ Tenemos que tener cuidado al usar cualquier propiedad que reordene la presentaci
 **1.¿Cuáles son algunas de las ventajas de utilizar flexbox sobre float?**
 
 + Alineación más sencilla
-+ 
++ Facilitan mucho algunas tareas de compaginación
++ Permite una distribución equitativa del espacio entre elementos y alrededor de ellos.
++ Permite invertir el orden de los elementos y cambiar la dirección del layout con las propiedades flex-direction y flex-wrap.
 
 **2.¿Cómo es que este tema se conecta con tus metas a largo plazo?**
+
+Me permite mejorar mis habilidades técnicas con el desarrollo de frontend que me permitirá ir dominando para crear layouts con una buena estructura.
 
 ## Marcadores y Repaso
 
 **Learn CSS - Layout**
+
+CSS nos proporciona varias formas de resolver problemas de diseño en un eje vertical, horizontal o incluso ambos.  Elegir el método de diseño adecuado para un contexto puede ser difícil. Vamos a ir aprediendo características únicas de cada mecanismo de diseño CSS para saber como aplicarlo. Algunos de ellos son:
+
++ Comprender la propiedad display
++ Flexbox y Grid
++ Disposición de flujo
++ Flotadores
++ Disposición multicolumna
 
 ## Cosas de las que quiero saber más
 
