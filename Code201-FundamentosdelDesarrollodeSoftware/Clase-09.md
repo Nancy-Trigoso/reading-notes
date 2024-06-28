@@ -1,5 +1,7 @@
 # Formularios y Events en JS
 
+Estos lecturas, nos ayudaran a comprender mejor la próxima clase y participar activamente y poder avanzar con los temas asignados. 
+
 ## Formularios en HTML
 
 **1.¿Por qué los formularios son tan importantes en el desarrollo web?**
