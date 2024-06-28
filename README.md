@@ -24,7 +24,7 @@ En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 10
    * [Clase-06: Descripción del problema, Objetos y el DOM](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-06.html)
    * [Clase-07: Programación orientada a objetos, Tablas en HTML](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-07.html)
    * [Clase-08: CSS: Layout](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-08.html)
-   * [Read 09:](https://nancy-trigoso.github.io/reading-notes/201/Read09.html)
+   * [Clase-09: Formularios y Events en JS](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-09.html)
    * [Read 10:](https://nancy-trigoso.github.io/reading-notes/201/Read10.html)
    * [Read 11:](https://nancy-trigoso.github.io/reading-notes/201/Read11.html)
    * [Read 12:](https://nancy-trigoso.github.io/reading-notes/201/Read12.html)
