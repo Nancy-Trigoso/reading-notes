@@ -1,6 +1,6 @@
 # CSS: Layout
 
-Estos lecturas, nos ayudaran a comprender mejor la próxima clase y participar activamente y poder avanzar en el tiempo de clase.
+Estas lecturas, nos ayudaran a comprender mejor la próxima clase y participar activamente y poder avanzar en el tiempo de clase.
 
 ## Learn CSS - Flexbox
 
