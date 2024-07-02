@@ -1,4 +1,7 @@
 # Depuración
+
+Estos temas son importantes para tener conocimiento previo para la clase 10 y nos ayuda a poder participar activamente en clase.
+
 ## Corrigiendo JavaScript.
 
 **1. Menciona algunas diferencias clave entre un Syntax Error y un Logic Error.**
