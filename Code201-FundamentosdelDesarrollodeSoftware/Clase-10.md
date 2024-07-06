@@ -6,6 +6,10 @@ Estos temas son importantes para tener conocimiento previo para la clase 10 y no
 
 **1. Menciona algunas diferencias clave entre un Syntax Error y un Logic Error.**
 
+Un Syntax Error son errores de ortografía en el código y provoca que tu programa no se ejecute en absoluto, o que deje de funcionar a mitad del camino. También proporcionarán algunos mensajes de error. 
+
+Por otro lado un Logic Error son errores en los que la sintaxis realmente es correcta pero el código no hace lo que pretendías, lo cual significa que el programa se ejecuta pero da resultados incorrectos.  No hay un mensaje de error y eso hace que sea difícil de arreglar.
+
 **2. Enumera algunos tipos de errores que has encontrado en las tareas de laboratorio anteriores y explica cómo fuiste capaz de corregirlos.**
 
 **3. ¿Cómo este tema influye en tus metas a largo plazo?**
