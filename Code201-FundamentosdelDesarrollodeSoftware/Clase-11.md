@@ -65,41 +65,41 @@ CSS y JavaScript pueden ofrecer flexibilidad adicional en términos de manipulac
 
 Un ejemplo de como insertar una imagen en HTML:
 
- <img src="https://www.example.com/images/dinosaur.jpg" />
+ `<img src="https://www.example.com/images/dinosaur.jpg" />`
  
 Dos formas de comentar una imagen:
 
 + Primera forma:
 
-<div class="figure">
-  <img
-    src="images/dinosaur.jpg"
-    alt="La cabeza y el torso de un esqueleto de dinosaurio;
-           tiene una cabeza grande con dientes largos y afilados"
-    width="400"
-    height="341" />
+      <div class="figure">
+       <img
+          src="images/dinosaur.jpg"
+          alt="La cabeza y el torso de un esqueleto de dinosaurio;
+          tiene una cabeza grande con dientes largos y afilados"
+          width="400"
+          height="341" />
 
-  <p>Exposición de un T-Rex en el museo de la Universidad de Manchester.</p>
-</div>
+       <p>Exposición de un T-Rex en el museo de la Universidad de Manchester.</p>
+     </div>
 
 + Segunda forma:
 
-  <figure>
-  <img
-    src="images/dinosaur.jpg"
-    alt="La cabeza y el torso de un esqueleto de dinosaurio;
-            tiene una cabeza grande con dientes largos y afilados"
-    width="400"
-    height="341" />
+     <figure>
+           <img
+              src="images/dinosaur.jpg"
+              alt="La cabeza y el torso de un esqueleto de dinosaurio;
+              tiene una cabeza grande con dientes largos y afilados"
+              width="400"
+              height="341" />
 
-  <figcaption>
-    Exposición de un T-Rex en el museo de la Universidad de Manchester.
-  </figcaption>
-</figure>
+           <figcaption>
+                     Exposición de un T-Rex en el museo de la Universidad de Manchester.
+           </figcaption>
+     </figure>
 
 **Otras Tecnologías de Incrustación**
 
-Los elementos que te permitan integrar una amplia variedad de tipos de contenido en tus páginas web son: los elementos `<iframe>`, `<embed>` y `<object>`. Los `<iframe>` son para incrustar otras páginas web, y los otros dos te permiten incrustar PDFs, SVG e incluso Flash 
+Los elementos que te permitan integrar una amplia variedad de tipos de contenido en tus páginas web son: los elementos `<iframe>`, `<embed>` y `<object>`. Los `<iframe>` son para incrustar otras páginas web, y los otros dos te permiten incrustar PDFs, SVG e incluso Flash.
 
 ## Cosas de las que quiero saber más
 
