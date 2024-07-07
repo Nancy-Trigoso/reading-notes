@@ -28,7 +28,7 @@ Por otro lado, `<video>` era un personaje vibrante y colorido. Podía mostrar im
 
 Un día, se encontraron con un problema en el pueblo de Codeworld. Los habitantes estaban tristes porque muchos de ellos no podían disfrutar de las maravillosas historias y películas que `<audio>` y `<video>` ofrecían. Los antiguos dispositivos y navegadores de los habitantes no podían reproducir los formatos modernos que usaban sus amigos.
 
-Así que `<audio>` y `<video>` consultaron con el sabio anciano `<html>`. Él les contó sobre los hechizos mágicos llamados fallbacks que podrían ayudar. Estos hechizos permitían ofrecer alternativas para asegurar que todos pudieran disfrutar de su contenido.
+Así que `<audio>` y `<video>` consultaron con el sabio anciano `<html>`. Él les contó sobre los hechizos mágicos llamados fallbacks que podrían ayudar. Estos hechizos permitían ofrecer alternativas para asegurar que todos pudieran disfrutar de su contenido. Y todos fueron felices por sirmpre. End.
 
 **5. ¿En qué se diferencia el layout Grid del Flex?**
 
@@ -41,7 +41,7 @@ Así que `<audio>` y `<video>` consultaron con el sabio anciano `<html>`. Él le
   
 + Grid item: Son los elementos hijos directos de un grid container. Estos elementos se colocan en la cuadrícula según las reglas definidas en el contenedor y pueden ocupar una o varias celdas dentro de la cuadrícula.
   
-+ Grid line: Son las líneas divisorias que forman las filas y columnas en un grid container. Se numeran desde el inicio hasta el final de la cuadrícula, y los grid items se pueden colocar y dimensionar en referencia a estas líneas. Las líneas horizontales forman las filas y las líneas verticales forman las columnas.
++ Grid line: Son las líneas divisorias que forman las filas y columnas en un grid container. Se numeran desde el inicio hasta el final de la cuadrícula, y los grid items se pueden colocar y dimensionar en referencia a estas líneas. Las líneas horizontales forman las filas y las líneas verticales forman las columnas. 
 
 ## Imágenes Responsivas
 
