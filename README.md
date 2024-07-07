@@ -26,7 +26,7 @@ En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 10
    * [Clase-08: CSS: Layout](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-08.html)
    * [Clase-09: Formularios y Events en JS](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-09.html)
    * [Clase-10: Depuración.](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-10.html)
-   * [Read 11:](https://nancy-trigoso.github.io/reading-notes/201/Read11.html)
+   * [Clase-11: Audio, video, imágenes](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-11.html)
    * [Read 12:](https://nancy-trigoso.github.io/reading-notes/201/Read12.html)
    * [Read 13:](https://nancy-trigoso.github.io/reading-notes/201/Read13.html)
    * [Read 14:](https://nancy-trigoso.github.io/reading-notes/201/Read14.html)
