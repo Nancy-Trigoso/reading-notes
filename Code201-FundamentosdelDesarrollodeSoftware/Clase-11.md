@@ -84,7 +84,7 @@ Dos formas de comentar una imagen:
 
 + Segunda forma:
 
-     <figure>
+      <figure>
            <img
               src="images/dinosaur.jpg"
               alt="La cabeza y el torso de un esqueleto de dinosaurio;
@@ -95,7 +95,7 @@ Dos formas de comentar una imagen:
            <figcaption>
                      Exposición de un T-Rex en el museo de la Universidad de Manchester.
            </figcaption>
-     </figure>
+      </figure>
 
 **Otras Tecnologías de Incrustación**
 
