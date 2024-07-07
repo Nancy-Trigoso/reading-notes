@@ -99,6 +99,8 @@ Dos formas de comentar una imagen:
 
 **Otras Tecnologías de Incrustación**
 
+Los elementos que te permitan integrar una amplia variedad de tipos de contenido en tus páginas web son: los elementos `<iframe>`, `<embed>` y `<object>`. Los `<iframe>` son para incrustar otras páginas web, y los otros dos te permiten incrustar PDFs, SVG e incluso Flash 
+
 ## Cosas de las que quiero saber más
 
 Por el momento no.
