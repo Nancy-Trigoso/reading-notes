@@ -80,7 +80,7 @@ Dos formas de comentar una imagen:
           height="341" />
 
        <p>Exposición de un T-Rex en el museo de la Universidad de Manchester.</p>
-     </div>
+      </div>
 
 + Segunda forma:
 
