@@ -32,6 +32,11 @@ Chart.js es una librería de JavaScript utilizada para crear gráficos interacti
 
 **1. ¿Cuáles son algunas de las ventajas de mostrar datos por medio de un gráfico en vez de una tabla?**
 
+* Nadie los va a utilizar a la fuerza como herramienta de diseño
+* Son más fáciles de ver
+* Transmiten datos rápidamente
+* Facilita la interpretación, comparación y comunicación de la información.
+
 **2. ¿Cómo puede ayudar Chart.js a tus aplicaciones creadas anteriormente?**
 
 ## Marcadores y Repaso
