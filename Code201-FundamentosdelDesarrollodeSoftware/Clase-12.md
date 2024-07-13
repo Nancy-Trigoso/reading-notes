@@ -1,5 +1,7 @@
 # Chart.js, Canvas
 
+Este temo nos ayuda a tener conocimiento previo a nuestra siguiente clase y poder participar activamente en clase.
+
 ## Canvas
 
 **1. ¿Qué es lo que el `<canvas>` le permite lograr al desarrollador?**
@@ -61,9 +63,12 @@ Este tema nos enseña  como agregar diferentes colores, estilos de línea, degra
 
 **Dibujar texto - Canvas API**
 
+El elemento `<canvas>` permite dibujar texto en él a través de una API experimental de Mozilla.
 
-
+Permitiéndote el tipo de letra, dibujar y medir el texto y la interacción de texto y trazo.
 ## Cosas de las que quiero saber más
+
+Por el momento no.
 
 ## Fuentes:
 
