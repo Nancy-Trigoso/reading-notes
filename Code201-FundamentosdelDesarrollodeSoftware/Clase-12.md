@@ -45,11 +45,23 @@ Ayudará a ser visualmente atractivas y los usuarios pueden interactuar dinámic
 
 **Dibujando formas con canvas**
 
+Este artículo nos muestra como aprender a dibujar en canvas, formas como: 
 
+* Rectángulos
+* Triángulos
+* Líneas
+* Arcos
+* Curvas
+
+Te muestra paso a paso como trabjar con trazos y lo puedas aplicar en cada proyecto que tengas 
 
 **Applying Style and Colors - Canvas API**
 
+Este tema nos enseña  como agregar diferentes colores, estilos de línea, degradados, patrones y sombras a dibujos.
+
 **Dibujar texto - Canvas API**
+
+
 
 ## Cosas de las que quiero saber más
 
