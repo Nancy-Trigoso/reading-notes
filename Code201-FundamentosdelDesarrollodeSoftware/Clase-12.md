@@ -18,7 +18,13 @@ Devuelve un objeto que proporciona métodos() y propiedades para dibujar en el c
 
 **1. ¿Qué es Chart.js y cómo se puede incorporar en nuestro proyecto?**
 
+Chart.js es una librería de JavaScript utilizada para crear gráficos interactivos y responsivos en aplicaciones web, se puede incorporar usando:
+* CDN: `<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>`
+* npm: `npm install chart.js`
+
 **2. Enumera 3 tipos diferentes de gráficos que puedes crear utilizando Chart.js.**
+
+
 
 ## Easily Create Stunning Animated Charts with Chart.js
 
