@@ -4,9 +4,15 @@
 
 **1. ¿Qué es lo que el `<canvas>` le permite lograr al desarrollador?**
 
+Permite crear gráficos que se visualizaran en la página web.
+
 **2. ¿Cuál es la importancia de cerrar la etiqueta `</canvas>`?**
 
+ Para que sea compatible con todos los navegadores que soportan canvas.
+
 **3. Explica lo que hace el método `getContext()`.**
+ 
+Devuelve un objeto que proporciona métodos() y propiedades para dibujar en el canvas.
 
 ## Chart.js 
 
