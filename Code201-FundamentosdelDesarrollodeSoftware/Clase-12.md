@@ -39,9 +39,13 @@ Chart.js es una librería de JavaScript utilizada para crear gráficos interacti
 
 **2. ¿Cómo puede ayudar Chart.js a tus aplicaciones creadas anteriormente?**
 
+Ayudará a ser visualmente atractivas y los usuarios pueden interactuar dinámicamente con los gráficos y obtener información detallada.
+
 ## Marcadores y Repaso
 
 **Dibujando formas con canvas**
+
+
 
 **Applying Style and Colors - Canvas API**
 
