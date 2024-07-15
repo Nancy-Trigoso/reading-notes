@@ -21,12 +21,8 @@ Solo puede guardar cadenas de texto. Se puede convertir antes de guardarlo usand
 
 **The Past, Present, and Future of Local Storage for Web Applications**
 
-Esta página web nos brinda información sobre la evaluación que a tenido el local storage, desde las cookies y userData hasta localStorage y más allá. Con HTML5 y las futuras implementaciones de APIs como IndexedDB, las aplicaciones web tienen ahora herramientas robustas para manejar el almacenamiento local de datos, acercándose cada vez más a las capacidades de datos a nivel local y global.
-
-
-
-
-
+Esta página web nos brinda información sobre la evolución que a tenido el local storage, desde las cookies y userData hasta localStorage y más allá. Con HTML5 y las futuras implementaciones de APIs como IndexedDB, las aplicaciones web tienen ahora herramientas robustas para manejar el almacenamiento local de datos, acercándose cada vez más a las capacidades nativas. 
+También nos muestra ejemplos 
 
 ## Cosas de las que quiero saber más.
 
