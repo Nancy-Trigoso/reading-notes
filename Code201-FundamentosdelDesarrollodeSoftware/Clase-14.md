@@ -31,7 +31,7 @@ Las transiciones son una manera de suavizar un cambio de un estado inicial a un 
 
 **1.¿Cuáles son los beneficios de utilizar CSS transitions en páginas web?**
 
-https://github.com/Nancy-Trigoso/reading-notes/blob/main/Code201-FundamentosdelDesarrollodeSoftware/Clase-14.md
+
 
 **2.¿Cómo este tema encaja con tus metas a largo plazo?**
 
