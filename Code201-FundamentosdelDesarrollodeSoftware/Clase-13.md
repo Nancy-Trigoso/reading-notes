@@ -10,11 +10,11 @@ Para almacenar datos de manera persistente en el navegador del usuario y esté d
 
 **2.¿Qué información no se puede guardar en el local storage?**
 
-No guarda información de objeto.
+El local storage no guarda información de objeto, datos sensibles (contraseñas,etc),  archivos multimedia grandes tiene limitaciones de tamaño y información que necesita estar actualizada constantemente y sincronizada entre múltiples dispositivos o usuarios.
 
 **3.¿Qué tipo de datos se pueden guardar en el local storage? ¿Cómo puedes convertirlo a ese tipo de archivo antes de guardarlo?**
 
-Solo puede guardar cadenas de texto. Se puede convertir antes de guardarlo usando los métodos nativos JSON.stringify()y JSON.parse().
+Solo puede guardar cadenas de texto. Para poder guardar cualquier tipo de dato debes convertirlos a los métodos nativos JSON.stringify()y JSON.parse().
 
 
 ## Marcadores/Lectura rápida
