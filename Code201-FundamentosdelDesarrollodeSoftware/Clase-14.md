@@ -11,14 +11,15 @@ Le permite mover el elemento en el espacio 2D o 3D,  Cambiar el tamaño, rotar y
 **2.Da un ejemplo de un transform y cómo puedes utiliarlo en un página web.**
 
 Aqui tenemos una imagen de un logotipo inclinado 10 grados y desplazado 150 píxeles en el eje X.
-              ```<img
-                style="transform: skewX(10deg) translateX(150px);
+
+                  ```<img
+                        style="transform: skewX(10deg) translateX(150px);
                 
-                       transform-origin: bottom left;"
+                             transform-origin: bottom left;"
                        
-                src="logo.png"
+                        src="logo.png"
                 
-                alt="MDN logo" />```
+                      alt="MDN logo" />```
 
 ## Transiciones CSS Animaciones CSS
 
