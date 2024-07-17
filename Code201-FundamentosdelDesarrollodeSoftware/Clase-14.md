@@ -13,13 +13,13 @@ Le permite mover el elemento en el espacio 2D o 3D,  Cambiar el tamaño, rotar y
 Aqui tenemos una imagen de un logotipo inclinado 10 grados y desplazado 150 píxeles en el eje X.
 
                         <img
-                            style="transform: skewX(10deg) translateX(150px);
+                              style="transform: skewX(10deg) translateX(150px);
                 
                                      transform-origin: bottom left;"
                        
-                          src="logo.png"
+                         src="logo.png"
                 
-                          alt="MDN logo" />```
+                         alt="MDN logo" />
 
 ## Transiciones CSS Animaciones CSS
 
@@ -35,21 +35,37 @@ Las transiciones son una manera de suavizar un cambio de un estado inicial a un 
 
 **1.¿Cuáles son los beneficios de utilizar CSS transitions en páginas web?**
 
-
++ Son simples de implementar.
++  Proporcionan interacciones más suaves y agradables, mejorando la experiencia del usuario.
++  Estos efectos están acelerados por hardware lo que mejora el rendimiento.
++  Añaden efectos visuales sin necesidad de JavaScript.
++  Tiene compatibilidad con varios navegadores.
 
 **2.¿Cómo este tema encaja con tus metas a largo plazo?**
+
+Estos temas son muy importantes para impletar un proyecto a futuro, ya que me permitira que mis página web tengan un estilo espectacular y una experiencia genial con el usuario.
 
 ## Marcadores/Lectura rápida
 
 **Pure CSS Bounce Animation**
 
+Esta página nos muestra una animación de rebote utilizando solo css.
+
 **6 Buttons animated**
+
+Esta página nos muestra como podemos animar tres botones simultaneamente utilizando css.
 
 **CSS3 Animations: Keyframes**
 
+En esta página poder visualizar la animación de fotogramas clave CSS3, utilizando javascript y css.
+
 **404**
 
+Esta página nos muestra como poder animar un numero, como ejemplo nos muestra el 404, utilizando solo css y un html básico.
+
 ## Cosas de las que quiero saber más
+
+Por el momento no.
 
 ## Fuentes:
 + [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
