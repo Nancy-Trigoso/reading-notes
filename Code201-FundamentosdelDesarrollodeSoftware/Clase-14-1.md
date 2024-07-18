@@ -19,11 +19,11 @@ sus expresiones y otras señales no verbales.
 
 En mi antiguo trabajo en el área de estadística e informática, experimenté dos equipos con diferentes niveles de seguridad psicológica:
 
-Equipo de estadistica:
+**Equipo de estadistica:**
 
 Eran un equipo de alta Seguridad Psicológica, los miembros del equipo compartían ideas sin temor a ser juzgados. Durante las reuniones, se alentaba a todos a participar y proponer soluciones, no tenian miedo ser ellos mismos.
 
-En el equipo de informatica:
+**En el equipo de informatica:**
 
 Era un equipo con baja Seguridad Psicológica, cada uno se enfocaban en hacer su trabajo sin importarles su alrededor, no había comunicación abierta, cuando había reuniones se tomaba en cuenta las deciciones de los encargados, el resto no opinaba por miedo a ser jusgados, era un ambiente tenso que podría llegar a ser tóxico.
 
