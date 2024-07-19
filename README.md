@@ -31,6 +31,7 @@ En esta sitio web voy a ir mostrando todos mis avances de cada clase del code 10
    * [Clase-13: Lecturas](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-13.html)
    * [Clase-14: Lecturas](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-14.html)
    * [Clase-14: Seguridad Psicológica](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-14-1.html)
+   * [Clase-14: Seguridad Psicológica](https://nancy-trigoso.github.io/reading-notes/Code201-FundamentosdelDesarrollodeSoftware/Clase-14.1.html)
 3. **Notas de lectura del Código 301 - Desarrollo de Software Nivel Intermedio**
 4. **Notas de lectura del Código Code 401 - Desarrollo de Software Nivel Avanzado**
 
