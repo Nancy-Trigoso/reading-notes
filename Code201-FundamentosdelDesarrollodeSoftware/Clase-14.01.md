@@ -1,6 +1,6 @@
 # Seguridad Psicológica
 
-Estos temas son muy importantes porque nos ayuda a contribuir nuestra seguridad psicológica tanto como personal como nuestra relación con un grupo de trabajo.
+Estos temas son muy importantes porque nos ayuda a contribuir nuestra seguridad psicológica tanto como personal como nuestra relación en nuestro trabajo.
 
 ## What Google Learned From Its Quest to Build the Perfect Team
 
